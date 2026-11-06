@@ -1,0 +1,501 @@
+Artist ID,Artist Name,match_method,wiki_title,wiki_url,wiki_languages,wiki_words,wiki_references,wiki_active_since,location_type,location,place_page,lat,lon,coord_method
+0,Drake,disambiguation,Drake (musician),https://en.wikipedia.org/wiki/Drake_(musician),82.0,37203.0,538.0,2001.0,birthplace,"Toronto, Ontario, Canada",Toronto,43.6525,-79.38167,linked page
+1,Taylor Swift,direct,Taylor Swift,https://en.wikipedia.org/wiki/Taylor_Swift,155.0,45019.0,598.0,2003.0,birthplace,"West Reading, Pennsylvania, US","West Reading, Pennsylvania",40.33417,-75.94667,linked page
+2,Bad Bunny,direct,Bad Bunny,https://en.wikipedia.org/wiki/Bad_Bunny,60.0,20604.0,272.0,2013.0,birthplace,"Bayamón, Puerto Rico","Bayamón, Puerto Rico",18.38,-66.16333,linked page
+3,The Weeknd,direct,The Weeknd,https://en.wikipedia.org/wiki/The_Weeknd,69.0,36095.0,538.0,2009.0,birthplace,"Metropolitan Toronto, Ontario, Canada",Metropolitan Toronto,43.7072,-79.3805,linked page
+4,Justin Bieber,direct,Justin Bieber,https://en.wikipedia.org/wiki/Justin_Bieber,162.0,29427.0,401.0,2007.0,birthplace,"London, Ontario, Canada","London, Ontario",42.985,-81.24528,linked page
+5,Ariana Grande,direct,Ariana Grande,https://en.wikipedia.org/wiki/Ariana_Grande,126.0,45332.0,703.0,2008.0,birthplace,"Boca Raton, Florida, U.S.","Boca Raton, Florida",26.37778,-80.11389,linked page
+6,Travis Scott,direct,Travis Scott,https://en.wikipedia.org/wiki/Travis_Scott,53.0,23944.0,353.0,2008.0,birthplace,"Houston, Texas, U.S.",Houston,29.75667,-95.36528,linked page
+7,Kanye West,direct,Kanye West,https://en.wikipedia.org/wiki/Kanye_West,93.0,39824.0,611.0,1993.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+8,Ed Sheeran,direct,Ed Sheeran,https://en.wikipedia.org/wiki/Ed_Sheeran,87.0,30483.0,372.0,2004.0,birthplace,"Halifax, West Yorkshire, England","Halifax, West Yorkshire",53.725,-1.863,linked page
+9,Eminem,direct,Eminem,https://en.wikipedia.org/wiki/Eminem,158.0,35214.0,430.0,1988.0,birthplace,"St. Joseph, Missouri, U.S.","St. Joseph, Missouri",39.75806,-94.83667,linked page
+10,Rihanna,direct,Rihanna,https://en.wikipedia.org/wiki/Rihanna,138.0,29086.0,463.0,2003.0,birthplace,"Saint Michael, Barbados","Saint Michael, Barbados",13.11806,-59.60306,linked page
+11,Billie Eilish,direct,Billie Eilish,https://en.wikipedia.org/wiki/Billie_Eilish,108.0,35423.0,405.0,2015.0,birthplace,"Los Angeles, California, US",Los Angeles,34.05,-118.25,linked page
+12,Bruno Mars,direct,Bruno Mars,https://en.wikipedia.org/wiki/Bruno_Mars,101.0,38253.0,425.0,1990.0,birthplace,"Honolulu, Hawaii, U.S.",Honolulu,21.3,-157.85,linked page
+13,Kendrick Lamar,direct,Kendrick Lamar,https://en.wikipedia.org/wiki/Kendrick_Lamar,69.0,37826.0,514.0,2003.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+14,Post Malone,direct,Post Malone,https://en.wikipedia.org/wiki/Post_Malone,55.0,16744.0,253.0,2010.0,birthplace,"Syracuse, New York, U.S.","Syracuse, New York",43.04694,-76.14444,linked page
+15,J Balvin,direct,J Balvin,https://en.wikipedia.org/wiki/J_Balvin,47.0,12569.0,124.0,2004.0,birthplace,"Medellín, Antioquia, Colombia",Medellín,6.23083,-75.59056,linked page
+16,Future,disambiguation,Future (rapper),https://en.wikipedia.org/wiki/Future_(rapper),39.0,11563.0,154.0,2003.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+17,BTS,direct,BTS,https://en.wikipedia.org/wiki/BTS,119.0,36060.0,436.0,2013.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+18,Ozuna,direct,Ozuna,https://en.wikipedia.org/wiki/Ozuna,32.0,6366.0,72.0,2012.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+19,Coldplay,direct,Coldplay,https://en.wikipedia.org/wiki/Coldplay,93.0,34910.0,456.0,1997.0,origin,"London, England",London,51.50722,-0.1275,linked page
+20,Juice WRLD,direct,Juice Wrld,https://en.wikipedia.org/wiki/Juice_WRLD,49.0,12963.0,189.0,2015.0,birthplace,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+21,Chris Brown,direct,Chris Brown,https://en.wikipedia.org/wiki/Chris_Brown,71.0,32887.0,491.0,2002.0,birthplace,"Tappahannock, Virginia, U.S.","Tappahannock, Virginia",37.92222,-76.86306,linked page
+22,Nicki Minaj,direct,Nicki Minaj,https://en.wikipedia.org/wiki/Nicki_Minaj,102.0,40769.0,635.0,2002.0,birthplace,"Port of Spain, Trinidad and Tobago",Port of Spain,10.667,-61.517,linked page
+23,Lana Del Rey,direct,Lana Del Rey,https://en.wikipedia.org/wiki/Lana_Del_Rey,148.0,24659.0,369.0,2005.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+24,David Guetta,direct,David Guetta,https://en.wikipedia.org/wiki/David_Guetta,89.0,9716.0,116.0,1984.0,birthplace,"Paris, France",Paris,48.8567,2.3522,linked page
+25,Dua Lipa,direct,Dua Lipa,https://en.wikipedia.org/wiki/Dua_Lipa,101.0,29339.0,430.0,2013.0,birthplace,"London, England",London,51.50722,-0.1275,linked page
+26,Daddy Yankee,direct,Daddy Yankee,https://en.wikipedia.org/wiki/Daddy_Yankee,52.0,13678.0,147.0,1992.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+27,Rauw Alejandro,direct,Rauw Alejandro,https://en.wikipedia.org/wiki/Rauw_Alejandro,19.0,3691.0,44.0,2014.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+28,Anuel AA,direct,Anuel AA,https://en.wikipedia.org/wiki/Anuel_AA,23.0,10132.0,117.0,2010.0,birthplace,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+29,XXXTENTACION,direct,XXXTentacion,https://en.wikipedia.org/wiki/XXXTENTACION,64.0,26703.0,432.0,2013.0,birthplace,"Plantation, Florida, U.S.","Plantation, Florida",26.12444,-80.24944,linked page
+30,Imagine Dragons,direct,Imagine Dragons,https://en.wikipedia.org/wiki/Imagine_Dragons,58.0,12187.0,175.0,2008.0,origin,"Las Vegas, Nevada, U.S.",Las Vegas,36.16917,-115.14056,linked page
+31,Lil Wayne,direct,Lil Wayne,https://en.wikipedia.org/wiki/Lil_Wayne,75.0,27363.0,399.0,1991.0,birthplace,"New Orleans, Louisiana, U.S.",New Orleans,29.9761,-90.0783,linked page
+32,21 Savage,direct,21 Savage,https://en.wikipedia.org/wiki/21_Savage,41.0,14025.0,199.0,2013.0,birthplace,"Plaistow, London, England","Plaistow, Newham",51.5243,0.0245,linked page
+33,SZA,direct,SZA,https://en.wikipedia.org/wiki/SZA,45.0,24763.0,340.0,2011.0,birthplace,"St. Louis, Missouri, US",St. Louis,38.62722,-90.19778,linked page
+34,Arijit Singh,direct,Arijit Singh,https://en.wikipedia.org/wiki/Arijit_Singh,30.0,9553.0,71.0,2007.0,birthplace,"Jiaganj, West Bengal, India",Jiaganj Azimganj,24.23,88.27,linked page
+35,Lady Gaga,direct,Lady Gaga,https://en.wikipedia.org/wiki/Lady_Gaga,171.0,48229.0,583.0,2000.0,birthplace,"New York City, US",New York City,40.7128,-74.0061,searched text
+36,KAROL G,direct,Karol G,https://en.wikipedia.org/wiki/Karol_G,48.0,8837.0,91.0,2007.0,birthplace,"Medellín, Antioquia, Colombia",Medellín,6.23083,-75.59056,linked page
+37,Lil Baby,direct,Lil Baby,https://en.wikipedia.org/wiki/Lil_Baby,33.0,8293.0,108.0,2015.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+38,Maroon 5,direct,Maroon 5,https://en.wikipedia.org/wiki/Maroon_5,73.0,18827.0,271.0,1994.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+39,Khalid,disambiguation,Khalid (singer),https://en.wikipedia.org/wiki/Khalid_(singer),42.0,6495.0,78.0,2014.0,birthplace,"Fort Stewart, Georgia, U.S.",Fort Stewart,31.88,-81.6075,linked page
+40,Beyoncé,direct,Beyoncé,https://en.wikipedia.org/wiki/Beyonc%C3%A9,155.0,47797.0,668.0,1990.0,birthplace,"Houston, Texas, US",Houston,29.75667,-95.36528,linked page
+41,Maluma,direct,Maluma,https://en.wikipedia.org/wiki/Maluma,45.0,5979.0,79.0,2010.0,birthplace,"Medellín, Antioquia, Colombia",Medellín,6.23083,-75.59056,linked page
+42,Feid,direct,Feid,https://en.wikipedia.org/wiki/Feid,12.0,4751.0,68.0,2015.0,birthplace,"Medellín, Colombia",Medellín,6.23083,-75.59056,linked page
+43,Calvin Harris,direct,Calvin Harris,https://en.wikipedia.org/wiki/Calvin_Harris,62.0,14849.0,198.0,2002.0,birthplace,"Dumfries, Scotland",Dumfries,55.07,-3.603,linked page
+44,Myke Towers,direct,Myke Towers,https://en.wikipedia.org/wiki/Myke_Towers,13.0,3974.0,63.0,2016.0,birthplace,"Río Piedras, Puerto Rico","Río Piedras, Puerto Rico",18.39556,-66.04583,linked page
+45,Linkin Park,direct,Linkin Park,https://en.wikipedia.org/wiki/Linkin_Park,110.0,25013.0,388.0,1996.0,origin,"Agoura Hills, California, U.S.","Agoura Hills, California",34.15333,-118.76167,linked page
+46,Peso Pluma,direct,Peso Pluma,https://en.wikipedia.org/wiki/Peso_Pluma,11.0,15205.0,233.0,2020.0,birthplace,"Zapopan, Jalisco, Mexico",Zapopan,20.717,-103.4,linked page
+47,J. Cole,direct,J. Cole,https://en.wikipedia.org/wiki/J._Cole,49.0,21628.0,282.0,2007.0,birthplace,"Frankfurt, West Germany",Frankfurt,50.11056,8.68222,linked page
+48,Lil Uzi Vert,direct,Lil Uzi Vert,https://en.wikipedia.org/wiki/Lil_Uzi_Vert,39.0,12413.0,210.0,2010.0,birthplace,"Philadelphia, Pennsylvania, US",Philadelphia,39.9528,-75.1636,linked page
+49,Sia,direct,Sia,https://en.wikipedia.org/wiki/Sia,73.0,15605.0,245.0,,birthplace,"Adelaide, South Australia",Adelaide,-34.9275,138.6,linked page
+50,Doja Cat,direct,Doja Cat,https://en.wikipedia.org/wiki/Doja_Cat,60.0,20645.0,308.0,2012.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+51,Shakira,direct,Shakira,https://en.wikipedia.org/wiki/Shakira,219.0,30356.0,356.0,1990.0,birthplace,"Barranquilla, Atlántico, Colombia",Barranquilla,10.98333,-74.80194,linked page
+52,Morgan Wallen,direct,Morgan Wallen,https://en.wikipedia.org/wiki/Morgan_Wallen,26.0,11925.0,158.0,2014.0,birthplace,"Sneedville, Tennessee, U.S.","Sneedville, Tennessee",36.53194,-83.21417,linked page
+53,Young Thug,direct,Young Thug,https://en.wikipedia.org/wiki/Young_Thug,38.0,15063.0,196.0,2010.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+54,Farruko,direct,Farruko,https://en.wikipedia.org/wiki/Farruko,19.0,1345.0,13.0,2007.0,birthplace,"Bayamón, Puerto Rico","Bayamón, Puerto Rico",18.38,-66.16333,linked page
+55,Shawn Mendes,direct,Shawn Mendes,https://en.wikipedia.org/wiki/Shawn_Mendes,68.0,13756.0,197.0,2013.0,birthplace,"Toronto, Ontario, Canada",Toronto,43.6525,-79.38167,linked page
+56,Harry Styles,direct,Harry Styles,https://en.wikipedia.org/wiki/Harry_Styles,74.0,29758.0,435.0,2010.0,birthplace,"Redditch, Worcestershire, England",Worcestershire,52.2,-2.167,searched text
+57,Queen,disambiguation,Queen (band),https://en.wikipedia.org/wiki/Queen_(band),177.0,35033.0,519.0,1970.0,origin,"London, England",London,51.50722,-0.1275,linked page
+58,Sam Smith,direct,Sam Smith,https://en.wikipedia.org/wiki/Sam_Smith,65.0,14390.0,122.0,2007.0,birthplace,"London, England",London,51.50722,-0.1275,linked page
+59,One Direction,direct,One Direction,https://en.wikipedia.org/wiki/One_Direction,97.0,27639.0,391.0,2010.0,origin,"London, England",London,51.50722,-0.1275,linked page
+60,Metro Boomin,direct,Metro Boomin,https://en.wikipedia.org/wiki/Metro_Boomin,28.0,10121.0,134.0,2009.0,birthplace,"St. Louis, Missouri, U.S.",St. Louis,38.62722,-90.19778,linked page
+61,Olivia Rodrigo,direct,Olivia Rodrigo,https://en.wikipedia.org/wiki/Olivia_Rodrigo,77.0,17489.0,260.0,2015.0,birthplace,"Murrieta, California, U.S.","Murrieta, California",33.56944,-117.2025,linked page
+62,Adele,direct,Adele,https://en.wikipedia.org/wiki/Adele,115.0,38343.0,430.0,2006.0,birthplace,"London, England",London,51.50722,-0.1275,searched text
+63,Pritam,disambiguation,Pritam Chakraborty,https://en.wikipedia.org/wiki/Pritam_Chakraborty,23.0,5749.0,56.0,2001.0,birthplace,"Calcutta, West Bengal, India",Kolkata,22.5675,88.37,linked page
+64,Katy Perry,direct,Katy Perry,https://en.wikipedia.org/wiki/Katy_Perry,121.0,32850.0,521.0,2001.0,birthplace,"Santa Barbara, California, U.S.","Santa Barbara, California",34.417,-119.7,linked page
+65,Gunna,disambiguation,Gunna (rapper),https://en.wikipedia.org/wiki/Gunna_(rapper),26.0,4394.0,52.0,2016.0,birthplace,"College Park, Georgia, U.S.","College Park, Georgia",33.6175,-84.4675,linked page
+66,Arctic Monkeys,direct,Arctic Monkeys,https://en.wikipedia.org/wiki/Arctic_Monkeys,63.0,19342.0,346.0,2002.0,origin,"Sheffield, England",Sheffield,53.38083,-1.47028,linked page
+67,Fuerza Regida,direct,Fuerza Regida,https://en.wikipedia.org/wiki/Fuerza_Regida,6.0,10765.0,168.0,2015.0,origin,"San Bernardino, California, U.S.","San Bernardino, California",34.10417,-117.29222,linked page
+68,Junior H,direct,Junior H,https://en.wikipedia.org/wiki/Junior_H,3.0,4813.0,61.0,2019.0,birthplace,"Cerano, Guanajuato, Mexico",Guanajuato,21.017,-101.267,linked page
+69,"Tyler, The Creator",direct,"Tyler, the Creator","https://en.wikipedia.org/wiki/Tyler,_The_Creator",51.0,14547.0,190.0,2007.0,birthplace,"Hawthorne, California, U.S.","Hawthorne, California",33.91722,-118.34861,linked page
+70,Selena Gomez,direct,Selena Gomez,https://en.wikipedia.org/wiki/Selena_Gomez,157.0,32238.0,575.0,2002.0,birthplace,"Grand Prairie, Texas, US","Grand Prairie, Texas",32.71528,-96.96611,linked page
+71,Ty Dolla $ign,direct,Ty Dolla Sign,https://en.wikipedia.org/wiki/Ty_Dolla_$ign,30.0,8378.0,97.0,2004.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+72,The Beatles,direct,The Beatles,https://en.wikipedia.org/wiki/The_Beatles,216.0,41121.0,520.0,1960.0,origin,"Liverpool, England",Liverpool,53.4072,-2.9917,linked page
+73,Pitbull,disambiguation,Pitbull (rapper),https://en.wikipedia.org/wiki/Pitbull_(rapper),57.0,12217.0,142.0,1998.0,birthplace,"Miami, Florida, U.S.",Miami,25.77417,-80.19361,searched text
+74,Nicky Jam,direct,Nicky Jam,https://en.wikipedia.org/wiki/Nicky_Jam,30.0,6195.0,63.0,1995.0,birthplace,"Lawrence, Massachusetts, U.S.","Lawrence, Massachusetts",42.70694,-71.16361,linked page
+75,Playboi Carti,direct,Playboi Carti,https://en.wikipedia.org/wiki/Playboi_Carti,41.0,11002.0,189.0,2011.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+76,Halsey,disambiguation,Halsey (singer),https://en.wikipedia.org/wiki/Halsey_(singer),55.0,19779.0,329.0,2012.0,birthplace,"Edison, New Jersey, US","Edison, New Jersey",40.5274,-74.3933,linked page
+77,Wiz Khalifa,direct,Wiz Khalifa,https://en.wikipedia.org/wiki/Wiz_Khalifa,63.0,8281.0,99.0,2005.0,birthplace,"Minot, North Dakota, U.S.","Minot, North Dakota",48.2376139,-101.2790056,linked page
+78,Michael Jackson,direct,Michael Jackson,https://en.wikipedia.org/wiki/Michael_Jackson,278.0,47850.0,615.0,1964.0,birthplace,"Gary, Indiana, US","Gary, Indiana",41.59056,-87.34694,linked page
+79,Sabrina Carpenter,direct,Sabrina Carpenter,https://en.wikipedia.org/wiki/Sabrina_Carpenter,78.0,18307.0,303.0,2008.0,birthplace,"Quakertown, Pennsylvania, US","Quakertown, Pennsylvania",40.44056,-75.34056,linked page
+80,Frank Ocean,direct,Frank Ocean,https://en.wikipedia.org/wiki/Frank_Ocean,47.0,13561.0,189.0,2006.0,birthplace,"Long Beach, California, U.S.","Long Beach, California",33.76833,-118.19556,linked page
+81,Die drei ???,not found,,,,,,,,,,,,
+82,JAŸ-Z,direct,Jay-Z,https://en.wikipedia.org/wiki/JA%C5%B8-Z,80.0,25681.0,296.0,1986.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+83,A$AP Rocky,direct,ASAP Rocky,https://en.wikipedia.org/wiki/A$AP_Rocky,44.0,14507.0,253.0,2007.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+84,Miley Cyrus,direct,Miley Cyrus,https://en.wikipedia.org/wiki/Miley_Cyrus,118.0,40548.0,600.0,2001.0,birthplace,"Franklin, Tennessee, U.S.","Franklin, Tennessee",35.92917,-86.8575,linked page
+85,The Chainsmokers,direct,The Chainsmokers,https://en.wikipedia.org/wiki/The_Chainsmokers,47.0,9529.0,176.0,2012.0,origin,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+86,Marshmello,direct,Marshmello,https://en.wikipedia.org/wiki/Marshmello,50.0,7936.0,111.0,2010.0,birthplace,"Philadelphia, Pennsylvania, U.S.",Philadelphia,39.9528,-75.1636,linked page
+87,Cardi B,direct,Cardi B,https://en.wikipedia.org/wiki/Cardi_B,78.0,31885.0,521.0,2015.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+88,Twenty One Pilots,direct,Twenty One Pilots,https://en.wikipedia.org/wiki/Twenty_One_Pilots,57.0,20638.0,321.0,2009.0,origin,"Columbus, Ohio, U.S.","Columbus, Ohio",39.96222,-83.00056,linked page
+89,Disney,manual title,Walt Disney Records,https://en.wikipedia.org/wiki/Walt_Disney_Records,26.0,3468.0,22.0,,headquarters,"Walt Disney Studios, Burbank, California",Walt Disney Studios (Burbank),34.15694,-118.325,linked page
+90,Arcángel,direct,Arcángel,https://en.wikipedia.org/wiki/Arc%C3%A1ngel,13.0,7022.0,104.0,2004.0,birthplace,"New York City, New York, U.S.",New York City,40.7128,-74.0061,linked page
+91,Red Hot Chili Peppers,direct,Red Hot Chili Peppers,https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers,95.0,20238.0,311.0,1982.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,searched text
+92,Camila Cabello,direct,Camila Cabello,https://en.wikipedia.org/wiki/Camila_Cabello,75.0,16671.0,227.0,2012.0,birthplace,"Cojímar, Habana del Este, Cuba",Cojímar,23.135,-82.394,linked page
+93,$uicideboy$,direct,Suicideboys,https://en.wikipedia.org/wiki/$uicideboy$,17.0,9113.0,98.0,2013.0,origin,"New Orleans, Louisiana, U.S.",New Orleans,29.9761,-90.0783,linked page
+94,OneRepublic,direct,OneRepublic,https://en.wikipedia.org/wiki/OneRepublic,62.0,7671.0,93.0,2003.0,origin,"Colorado Springs, Colorado, U.S.","Colorado Springs, Colorado",38.85778,-104.60583,linked page
+95,Avicii,direct,Avicii,https://en.wikipedia.org/wiki/Avicii,84.0,16957.0,284.0,2006.0,birthplace,"Stockholm, Sweden",Stockholm,59.32944,18.06861,linked page
+96,Diplo,direct,Diplo,https://en.wikipedia.org/wiki/Diplo,38.0,9873.0,129.0,1997.0,birthplace,"Tupelo, Mississippi, U.S.","Tupelo, Mississippi",34.25972,-88.72583,linked page
+97,Snoop Dogg,direct,Snoop Dogg,https://en.wikipedia.org/wiki/Snoop_Dogg,89.0,25507.0,360.0,1991.0,birthplace,"Long Beach, California, U.S.","Long Beach, California",33.76833,-118.19556,linked page
+98,Romeo Santos,direct,Romeo Santos,https://en.wikipedia.org/wiki/Romeo_Santos,27.0,7811.0,56.0,1994.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+99,50 Cent,direct,50 Cent,https://en.wikipedia.org/wiki/50_Cent,102.0,25609.0,354.0,1996.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+100,Natanael Cano,direct,Natanael Cano,https://en.wikipedia.org/wiki/Natanael_Cano,5.0,4200.0,51.0,2016.0,birthplace,"Hermosillo, Sonora, Mexico",Hermosillo,29.09889,-110.95417,linked page
+101,YoungBoy Never Broke Again,direct,YoungBoy Never Broke Again,https://en.wikipedia.org/wiki/YoungBoy_Never_Broke_Again,30.0,25591.0,380.0,2015.0,birthplace,"Baton Rouge, Louisiana, U.S.","Baton Rouge, Louisiana",30.4475,-91.17861,linked page
+102,Mac Miller,direct,Mac Miller,https://en.wikipedia.org/wiki/Mac_Miller,42.0,9334.0,151.0,2007.0,birthplace,"Pittsburgh, Pennsylvania, U.S.",Pittsburgh,40.43972,-79.97639,linked page
+103,DaBaby,direct,DaBaby,https://en.wikipedia.org/wiki/DaBaby,36.0,6953.0,100.0,2014.0,birthplace,"Cleveland, Ohio, U.S.",Cleveland,41.4992,-81.6947,linked page
+104,Don Toliver,direct,Don Toliver,https://en.wikipedia.org/wiki/Don_Toliver,30.0,3930.0,54.0,2015.0,birthplace,"Houston, Texas, U.S.",Houston,29.75667,-95.36528,linked page
+105,Zach Bryan,direct,Zach Bryan,https://en.wikipedia.org/wiki/Zach_Bryan,22.0,5425.0,80.0,2017.0,birthplace,"Yokosuka, Japan",Yokosuka,35.2815,139.672083,linked page
+106,Kygo,direct,Kygo,https://en.wikipedia.org/wiki/Kygo,41.0,6499.0,113.0,2013.0,birthplace,Singapore,Singapore,1.283,103.833,linked page
+107,Sech,disambiguation,Sech (singer),https://en.wikipedia.org/wiki/Sech_(singer),6.0,3698.0,54.0,2014.0,birthplace,"Río Abajo, Panama",Río Abajo,9.01944,-79.50139,linked page
+108,The Neighbourhood,direct,The Neighbourhood,https://en.wikipedia.org/wiki/The_Neighbourhood,36.0,7146.0,151.0,2011.0,origin,"Newbury Park, California, U.S.","Newbury Park, California",34.18417,-118.90972,linked page
+109,Quavo,direct,Quavo,https://en.wikipedia.org/wiki/Quavo,35.0,5320.0,81.0,2008.0,birthplace,"Athens, Georgia, U.S.","Athens, Georgia",33.95,-83.383,linked page
+110,Henrique & Juliano,direct,Henrique & Juliano,https://en.wikipedia.org/wiki/Henrique_%26_Juliano,2.0,891.0,9.0,2008.0,origin,"Palmeirópolis, Tocantins, Brazil",Palmeirópolis,-13.067,-48.367,linked page
+111,Luke Combs,direct,Luke Combs,https://en.wikipedia.org/wiki/Luke_Combs,27.0,7208.0,74.0,2014.0,birthplace,"Huntersville, North Carolina, U.S.","Huntersville, North Carolina",35.40611,-80.87167,linked page
+112,Elton John,direct,Elton John,https://en.wikipedia.org/wiki/Elton_John,99.0,38190.0,382.0,1962.0,birthplace,"Pinner, Middlesex, England",Pinner,51.5932,-0.3894,linked page
+113,Manuel Turizo,direct,Manuel Turizo,https://en.wikipedia.org/wiki/Manuel_Turizo,32.0,4573.0,78.0,2016.0,birthplace,"Montería, Córdoba, Colombia",Montería,8.75,-75.883,linked page
+114,Trippie Redd,direct,Trippie Redd,https://en.wikipedia.org/wiki/Trippie_Redd,27.0,5493.0,87.0,2012.0,birthplace,"Canton, Ohio, U.S.","Canton, Ohio",40.79861,-81.375,linked page
+115,Tate McRae,direct,Tate McRae,https://en.wikipedia.org/wiki/Tate_McRae,45.0,10513.0,178.0,2012.0,birthplace,"Calgary, Alberta, Canada",Calgary,51.0475,-114.0625,linked page
+116,Lil Peep,direct,Lil Peep,https://en.wikipedia.org/wiki/Lil_Peep,44.0,12664.0,168.0,2014.0,birthplace,"Allentown, Pennsylvania, U.S.","Allentown, Pennsylvania",40.60167,-75.47722,linked page
+117,Metallica,direct,Metallica,https://en.wikipedia.org/wiki/Metallica,120.0,24893.0,339.0,1981.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+118,Don Omar,direct,Don Omar,https://en.wikipedia.org/wiki/Don_Omar,33.0,4379.0,69.0,1996.0,birthplace,"Santurce, Puerto Rico","Santurce, San Juan, Puerto Rico",18.44667,-66.06889,linked page
+119,USHER,disambiguation,Usher (musician),https://en.wikipedia.org/wiki/Usher_(musician),78.0,32822.0,475.0,1991.0,birthplace,"Dallas, Texas, U.S.",Dallas,32.77917,-96.80889,linked page
+120,Charlie Puth,direct,Charlie Puth,https://en.wikipedia.org/wiki/Charlie_Puth,59.0,10278.0,156.0,2009.0,birthplace,"Rumson, New Jersey, U.S.","Rumson, New Jersey",40.37194,-73.99944,linked page
+121,Justin Timberlake,direct,Justin Timberlake,https://en.wikipedia.org/wiki/Justin_Timberlake,96.0,36054.0,513.0,1992.0,birthplace,"Memphis, Tennessee, U.S.","Memphis, Tennessee",35.14611,-90.05194,linked page
+122,Tiësto,direct,Tiësto,https://en.wikipedia.org/wiki/Ti%C3%ABsto,54.0,9426.0,103.0,1994.0,birthplace,"Breda, North Brabant, Netherlands",Breda,51.58889,4.77583,linked page
+123,Sean Paul,direct,Sean Paul,https://en.wikipedia.org/wiki/Sean_Paul,54.0,7772.0,103.0,1994.0,birthplace,"Kingston, Jamaica","Kingston, Jamaica",17.97139,-76.79306,linked page
+124,Tyga,direct,Tyga,https://en.wikipedia.org/wiki/Tyga,39.0,7768.0,115.0,2007.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+125,Kali Uchis,direct,Kali Uchis,https://en.wikipedia.org/wiki/Kali_Uchis,32.0,8429.0,134.0,2012.0,birthplace,"Alexandria, Virginia, U.S.","Alexandria, Virginia",38.82028,-77.05028,linked page
+126,Kodak Black,direct,Kodak Black,https://en.wikipedia.org/wiki/Kodak_Black,29.0,9695.0,137.0,2009.0,birthplace,"Pompano Beach, Florida, U.S.","Pompano Beach, Florida",26.23472,-80.12556,linked page
+127,Jason Derulo,direct,Jason Derulo,https://en.wikipedia.org/wiki/Jason_Derulo,51.0,7731.0,115.0,2006.0,birthplace,"Miramar, Florida, U.S.","Miramar, Florida",25.97667,-80.32306,linked page
+128,BLACKPINK,direct,Blackpink,https://en.wikipedia.org/wiki/BLACKPINK,110.0,32882.0,387.0,2016.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+129,JHAYCO,direct,Jhayco,https://en.wikipedia.org/wiki/Jhayco,10.0,6282.0,118.0,2013.0,birthplace,"Río Piedras, San Juan, Puerto Rico","Río Piedras, Puerto Rico",18.39556,-66.04583,linked page
+130,Bebe Rexha,direct,Bebe Rexha,https://en.wikipedia.org/wiki/Bebe_Rexha,55.0,9024.0,135.0,2010.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+131,Daft Punk,direct,Daft Punk,https://en.wikipedia.org/wiki/Daft_Punk,66.0,15700.0,199.0,1993.0,origin,"Paris, France",Paris,48.8567,2.3522,searched text
+132,Luis Miguel,direct,Luis Miguel,https://en.wikipedia.org/wiki/Luis_Miguel,35.0,8628.0,63.0,1981.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+133,Demi Lovato,direct,Demi Lovato,https://en.wikipedia.org/wiki/Demi_Lovato,117.0,28953.0,468.0,2002.0,birthplace,"Albuquerque, New Mexico, U.S.","Albuquerque, New Mexico",35.08444,-106.65167,linked page
+134,Akon,direct,Akon,https://en.wikipedia.org/wiki/Akon,83.0,9169.0,100.0,1996.0,birthplace,"St. Louis, Missouri, U.S.",St. Louis,38.62722,-90.19778,linked page
+135,AC/DC,direct,AC/DC,https://en.wikipedia.org/wiki/AC/DC,95.0,21138.0,312.0,1973.0,origin,"Sydney, New South Wales, Australia",Sydney,-33.86778,151.21,linked page
+136,Sebastian Yatra,direct,Sebastián Yatra,https://en.wikipedia.org/wiki/Sebastian_Yatra,20.0,4786.0,42.0,2013.0,birthplace,"Medellín, Antioquia, Colombia",Medellín,6.23083,-75.59056,linked page
+137,Carín León,direct,Carín León,https://en.wikipedia.org/wiki/Car%C3%ADn_Le%C3%B3n,3.0,3882.0,66.0,2010.0,birthplace,"Hermosillo, Sonora, Mexico",Hermosillo,29.09889,-110.95417,linked page
+138,Alan Walker,direct,Alan Walker,https://en.wikipedia.org/wiki/Alan_Walker,66.0,16109.0,291.0,2012.0,birthplace,"Northampton, England",Northampton,52.2303748,-0.8937527,linked page
+139,A Boogie Wit da Hoodie,direct,A Boogie wit da Hoodie,https://en.wikipedia.org/wiki/A_Boogie_Wit_da_Hoodie,19.0,5562.0,50.0,2016.0,birthplace,"The Bronx, New York City, U.S.",The Bronx,40.83722,-73.88611,linked page
+140,Fleetwood Mac,direct,Fleetwood Mac,https://en.wikipedia.org/wiki/Fleetwood_Mac,64.0,17245.0,165.0,1967.0,origin,"London, England",London,51.50722,-0.1275,searched text
+141,Hozier,direct,Hozier,https://en.wikipedia.org/wiki/Hozier,43.0,8110.0,126.0,2008.0,birthplace,"Newcastle, County Wicklow, Ireland","Newcastle, County Wicklow",53.0692,-6.0621,linked page
+142,Ellie Goulding,direct,Ellie Goulding,https://en.wikipedia.org/wiki/Ellie_Goulding,71.0,26805.0,470.0,2009.0,birthplace,"Hereford, England",Hereford,52.056,-2.716,linked page
+143,Radiohead,direct,Radiohead,https://en.wikipedia.org/wiki/Radiohead,81.0,23861.0,393.0,1985.0,origin,"Abingdon, Oxfordshire, England",Abingdon-on-Thames,51.67167,-1.27833,linked page
+144,Big Sean,direct,Big Sean,https://en.wikipedia.org/wiki/Big_Sean,36.0,7752.0,100.0,2007.0,birthplace,"Santa Monica, California, U.S.","Santa Monica, California",34.02194,-118.48139,linked page
+145,Flo Rida,direct,Flo Rida,https://en.wikipedia.org/wiki/Flo_Rida,52.0,6647.0,99.0,2000.0,birthplace,"Miami Gardens, Florida, U.S.","Miami Gardens, Florida",25.94194,-80.25639,linked page
+146,P!nk,direct,Pink (singer),https://en.wikipedia.org/wiki/P!nk,77.0,23298.0,355.0,1995.0,birthplace,"Doylestown, Pennsylvania, U.S.","Doylestown, Pennsylvania",40.31278,-75.12889,linked page
+147,Nirvana,disambiguation,Nirvana (band),https://en.wikipedia.org/wiki/Nirvana_(band),105.0,13182.0,200.0,1987.0,origin,"Aberdeen, Washington, U.S.","Aberdeen, Washington",46.95861,-123.81056,linked page
+148,Pop Smoke,direct,Pop Smoke,https://en.wikipedia.org/wiki/Pop_Smoke,33.0,5218.0,64.0,2018.0,birthplace,"Brooklyn, New York City, U.S.",Brooklyn,40.65,-73.95,linked page
+149,Britney Spears,direct,Britney Spears,https://en.wikipedia.org/wiki/Britney_Spears,124.0,34982.0,486.0,1992.0,birthplace,"McComb, Mississippi, U.S.","McComb, Mississippi",31.2444722,-90.4715917,linked page
+150,James Arthur,direct,James Arthur,https://en.wikipedia.org/wiki/James_Arthur,39.0,7448.0,112.0,2011.0,birthplace,"Middlesbrough, North Yorkshire, England",Middlesbrough,54.57611,-1.23472,linked page
+151,Tory Lanez,direct,Tory Lanez,https://en.wikipedia.org/wiki/Tory_Lanez,23.0,8833.0,124.0,2009.0,birthplace,"Brampton, Ontario, Canada",Brampton,43.68833,-79.76083,linked page
+152,Pharrell Williams,direct,Pharrell Williams,https://en.wikipedia.org/wiki/Pharrell_Williams,58.0,15462.0,166.0,1992.0,birthplace,"Virginia Beach, Virginia, U.S.","Virginia Beach, Virginia",36.85,-75.97778,linked page
+153,DJ Snake,direct,DJ Snake,https://en.wikipedia.org/wiki/DJ_Snake,42.0,5353.0,101.0,2000.0,birthplace,"Paris, France",Paris,48.8567,2.3522,linked page
+154,Daniel Caesar,direct,Daniel Caesar,https://en.wikipedia.org/wiki/Daniel_Caesar,19.0,4103.0,78.0,2012.0,birthplace,"Scarborough, Ontario, Canada","Scarborough, Ontario",43.75583,-79.23083,linked page
+155,Black Eyed Peas,direct,Black Eyed Peas,https://en.wikipedia.org/wiki/Black_Eyed_Peas,68.0,9948.0,62.0,1992.0,origin,"Los Angeles, California",Los Angeles,34.05,-118.25,searched text
+156,Swae Lee,direct,Swae Lee,https://en.wikipedia.org/wiki/Swae_Lee,25.0,2860.0,48.0,2010.0,birthplace,"Inglewood, California, U.S.","Inglewood, California",33.9575,-118.34611,linked page
+157,Shreya Ghoshal,direct,Shreya Ghoshal,https://en.wikipedia.org/wiki/Shreya_Ghoshal,55.0,27707.0,481.0,1998.0,birthplace,"Berhampore, West Bengal, India",Berhampore,24.1,88.25,linked page
+158,Duki,disambiguation,Duki (rapper),https://en.wikipedia.org/wiki/Duki_(rapper),35.0,4788.0,62.0,2016.0,birthplace,"Almagro, Buenos Aires, Argentina",Buenos Aires,-34.60389,-58.38139,searched text
+159,Bizarrap,direct,Bizarrap,https://en.wikipedia.org/wiki/Bizarrap,14.0,4283.0,57.0,2017.0,birthplace,"Ramos Mejía, Argentina",Ramos Mejía,-34.65,-58.567,linked page
+160,Migos,direct,Migos,https://en.wikipedia.org/wiki/Migos,37.0,8238.0,108.0,2008.0,origin,"Lawrenceville, Georgia, U.S.","Lawrenceville, Georgia",33.95222,-83.99333,linked page
+161,The Kid LAROI,direct,The Kid Laroi,https://en.wikipedia.org/wiki/The_Kid_LAROI,31.0,8684.0,142.0,2016.0,birthplace,"Sydney, New South Wales, Australia",Sydney,-33.86778,151.21,linked page
+162,Marília Mendonça,direct,Marília Mendonça,https://en.wikipedia.org/wiki/Mar%C3%ADlia_Mendon%C3%A7a,27.0,5040.0,79.0,2011.0,birthplace,"Cristianópolis, Goiás, Brazil",Cristianópolis,-17.19889,-48.69806,linked page
+163,Anitta,disambiguation,Anitta (singer),https://en.wikipedia.org/wiki/Anitta_(singer),37.0,42995.0,684.0,2011.0,birthplace,"Rio de Janeiro, Brazil",Rio de Janeiro,-22.91111,-43.20556,linked page
+164,Green Day,direct,Green Day,https://en.wikipedia.org/wiki/Green_Day,85.0,26000.0,348.0,1987.0,origin,"Rodeo, California, U.S.","Rodeo, California",38.03306,-122.26694,linked page
+165,Lil Durk,direct,Lil Durk,https://en.wikipedia.org/wiki/Lil_Durk,27.0,13365.0,184.0,2010.0,birthplace,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+166,Polo G,direct,Polo G,https://en.wikipedia.org/wiki/Polo_G,30.0,4605.0,81.0,2017.0,birthplace,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+167,A.R. Rahman,direct,A. R. Rahman,https://en.wikipedia.org/wiki/A.R._Rahman,61.0,23223.0,242.0,1992.0,birthplace,"Madras, Madras State, India",Chennai,13.0825,80.275,linked page
+168,G-Eazy,direct,G-Eazy,https://en.wikipedia.org/wiki/G-Eazy,34.0,4095.0,61.0,2006.0,birthplace,"Oakland, California, US","Oakland, California",37.80444,-122.27083,linked page
+169,Kid Cudi,direct,Kid Cudi,https://en.wikipedia.org/wiki/Kid_Cudi,42.0,29476.0,468.0,2003.0,birthplace,"Cleveland, Ohio, U.S.",Cleveland,41.4992,-81.6947,linked page
+170,Justin Quiles,direct,Justin Quiles,https://en.wikipedia.org/wiki/Justin_Quiles,5.0,4476.0,50.0,2010.0,birthplace,"Bridgeport, Connecticut, U.S.","Bridgeport, Connecticut",41.18639,-73.19556,linked page
+171,Bob Marley & The Wailers,direct,Bob Marley and the Wailers,https://en.wikipedia.org/wiki/Bob_Marley_%26_The_Wailers,23.0,5523.0,52.0,1963.0,origin,"Kingston, Jamaica","Kingston, Jamaica",17.97139,-76.79306,linked page
+172,Stray Kids,direct,Stray Kids,https://en.wikipedia.org/wiki/Stray_Kids,53.0,29592.0,402.0,2017.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+173,Anirudh Ravichander,direct,Anirudh Ravichander,https://en.wikipedia.org/wiki/Anirudh_Ravichander,17.0,7126.0,85.0,2012.0,birthplace,"Chennai, Tamil Nadu, India",Chennai,13.0825,80.275,linked page
+174,Ne-Yo,direct,Ne-Yo,https://en.wikipedia.org/wiki/Ne-Yo,54.0,11148.0,137.0,1998.0,birthplace,"Camden, Arkansas, U.S.","Camden, Arkansas",33.58444,-92.83417,linked page
+175,Gucci Mane,direct,Gucci Mane,https://en.wikipedia.org/wiki/Gucci_Mane,38.0,14265.0,193.0,2001.0,birthplace,"Bessemer, Alabama, US","Bessemer, Alabama",33.37111,-86.97278,linked page
+176,ROSALÍA,direct,Rosalía,https://en.wikipedia.org/wiki/Rosal%C3%ADa,53.0,18385.0,271.0,2013.0,birthplace,"Sant Cugat del Vallès, Catalonia, Spain",Sant Cugat del Vallès,41.467,2.083,linked page
+177,Charli xcx,direct,Charli XCX,https://en.wikipedia.org/wiki/Charli_xcx,66.0,20686.0,323.0,2008.0,birthplace,"Cambridge, England",Cambridge,52.205,0.1225,linked page
+178,Joji,disambiguation,Joji (musician),https://en.wikipedia.org/wiki/Joji_(musician),33.0,5615.0,94.0,2007.0,birthplace,"Osaka, Japan",Osaka,34.69389,135.50222,linked page
+179,Fall Out Boy,direct,Fall Out Boy,https://en.wikipedia.org/wiki/Fall_Out_Boy,52.0,24738.0,341.0,2001.0,origin,"Wilmette, Illinois, U.S.","Wilmette, Illinois",42.07722,-87.72361,linked page
+180,PARTYNEXTDOOR,direct,PartyNextDoor,https://en.wikipedia.org/wiki/PARTYNEXTDOOR,21.0,3719.0,53.0,2006.0,birthplace,"Mississauga, Ontario, Canada",Mississauga,43.6,-79.65,linked page
+181,Jorge & Mateus,direct,Jorge & Mateus,https://en.wikipedia.org/wiki/Jorge_%26_Mateus,3.0,686.0,2.0,2005.0,origin,"Itumbiara, Goiás, Brazil",Itumbiara,-18.41667,-49.21667,linked page
+182,Offset,disambiguation,Offset (rapper),https://en.wikipedia.org/wiki/Offset_(rapper),27.0,7125.0,111.0,2002.0,birthplace,"Lawrenceville, Georgia, U.S.","Lawrenceville, Georgia",33.95222,-83.99333,linked page
+183,Panic! At The Disco,direct,Panic! at the Disco,https://en.wikipedia.org/wiki/Panic!_At_The_Disco,49.0,16549.0,241.0,2004.0,origin,"Las Vegas, Nevada, U.S.",Las Vegas,36.16917,-115.14056,linked page
+184,Tame Impala,direct,Tame Impala,https://en.wikipedia.org/wiki/Tame_Impala,42.0,9701.0,111.0,2007.0,origin,"Perth, Western Australia, Australia",Perth,-32.0,115.9,linked page
+185,Quevedo,disambiguation,Quevedo (singer),https://en.wikipedia.org/wiki/Quevedo_(singer),8.0,5573.0,58.0,2020.0,birthplace,"Madrid, Spain",Madrid,40.4169,-3.7033,linked page
+186,Morat,disambiguation,Morat (band),https://en.wikipedia.org/wiki/Morat_(band),9.0,5414.0,68.0,2015.0,origin,"Bogotá, Colombia",Bogotá,4.71111,-74.07222,linked page
+187,Zara Larsson,direct,Zara Larsson,https://en.wikipedia.org/wiki/Zara_Larsson,61.0,10541.0,165.0,2008.0,birthplace,"Solna, Stockholm County, Sweden",Solna,59.35,18.0,linked page
+188,Tito Double P,direct,Tito Double P,https://en.wikipedia.org/wiki/Tito_Double_P,1.0,3342.0,40.0,2023.0,birthplace,"Tepic, Nayarit, Mexico",Tepic,21.50833,-104.89306,linked page
+189,Jul,disambiguation,Jul (rapper),https://en.wikipedia.org/wiki/Jul_(rapper),11.0,3837.0,31.0,2010.0,birthplace,"Marseille, France",Marseille,43.2964,5.37,linked page
+190,2Pac,direct,Tupac Shakur,https://en.wikipedia.org/wiki/2Pac,113.0,24071.0,359.0,1989.0,birthplace,"Manhattan, New York City, U.S.",Manhattan,40.7127,-74.0059,linked page
+191,Gorillaz,direct,Gorillaz,https://en.wikipedia.org/wiki/Gorillaz,54.0,19751.0,251.0,1998.0,origin,"London, England",London,51.50722,-0.1275,linked page
+192,Lewis Capaldi,direct,Lewis Capaldi,https://en.wikipedia.org/wiki/Lewis_Capaldi,43.0,6821.0,101.0,2013.0,birthplace,"Glasgow, Scotland",Glasgow,55.86111,-4.25,linked page
+193,Grupo Frontera,direct,Grupo Frontera,https://en.wikipedia.org/wiki/Grupo_Frontera,3.0,6453.0,105.0,2022.0,origin,"Edinburg, Texas, U.S.","Edinburg, Texas",26.30417,-98.16389,linked page
+194,Camilo,disambiguation,Camilo (singer),https://en.wikipedia.org/wiki/Camilo_(singer),25.0,4353.0,35.0,2019.0,birthplace,"Medellín, Antioquia, Colombia",Medellín,6.23083,-75.59056,linked page
+195,Lenny Tavárez,direct,Lenny Tavárez,https://en.wikipedia.org/wiki/Lenny_Tav%C3%A1rez,3.0,692.0,8.0,2001.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+196,2 Chainz,direct,2 Chainz,https://en.wikipedia.org/wiki/2_Chainz,38.0,8084.0,92.0,1997.0,birthplace,"College Park, Georgia, U.S.","College Park, Georgia",33.6175,-84.4675,linked page
+197,NF,disambiguation,NF (rapper),https://en.wikipedia.org/wiki/NF_(rapper),35.0,4687.0,76.0,2010.0,birthplace,"Gladwin, Michigan, U.S.","Gladwin, Michigan",43.98306,-84.48972,linked page
+198,Bryson Tiller,direct,Bryson Tiller,https://en.wikipedia.org/wiki/Bryson_Tiller,25.0,5600.0,70.0,2011.0,birthplace,"Louisville, Kentucky, U.S.","Louisville, Kentucky",38.25611,-85.75139,linked page
+199,Rels B,direct,Rels B,https://en.wikipedia.org/wiki/Rels_B,6.0,1938.0,23.0,2014.0,birthplace,"Palma de Mallorca, Spain",Palma de Mallorca,39.567,2.65,linked page
+200,Roddy Ricch,direct,Roddy Ricch,https://en.wikipedia.org/wiki/Roddy_Ricch,28.0,8642.0,141.0,2015.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+201,Guns N' Roses,direct,Guns N' Roses,https://en.wikipedia.org/wiki/Guns_N%27_Roses,84.0,47126.0,872.0,1985.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+202,Mariah Carey,direct,Mariah Carey,https://en.wikipedia.org/wiki/Mariah_Carey,112.0,31808.0,469.0,1988.0,birthplace,"Huntington, New York, US","Huntington, New York",40.86,-73.35222,linked page
+203,Noah Kahan,direct,Noah Kahan,https://en.wikipedia.org/wiki/Noah_Kahan,18.0,3580.0,57.0,2017.0,birthplace,"Strafford, Vermont, U.S.","Strafford, Vermont",43.87,-72.37722,linked page
+204,Megan Thee Stallion,direct,Megan Thee Stallion,https://en.wikipedia.org/wiki/Megan_Thee_Stallion,51.0,19891.0,269.0,2016.0,birthplace,"San Antonio, Texas, U.S.",San Antonio,29.425,-98.4939,linked page
+205,Christian Nodal,direct,Christian Nodal,https://en.wikipedia.org/wiki/Christian_Nodal,37.0,9892.0,133.0,2016.0,birthplace,"Caborca, Sonora, Mexico",Caborca,30.717,-112.15,linked page
+206,Brent Faiyaz,direct,Brent Faiyaz,https://en.wikipedia.org/wiki/Brent_Faiyaz,12.0,5988.0,82.0,2013.0,birthplace,"Columbia, Maryland, U.S.","Columbia, Maryland",39.20361,-76.85694,linked page
+207,Martin Garrix,direct,Martin Garrix,https://en.wikipedia.org/wiki/Martin_Garrix,60.0,10386.0,157.0,2012.0,birthplace,"Amstelveen, Netherlands",Amstelveen,52.3,4.85,linked page
+208,Banda MS de Sergio Lizárraga,search results,Banda MS,https://en.wikipedia.org/wiki/Banda_MS,2.0,2003.0,31.0,2003.0,origin,"Mazatlán, Sinaloa, México",Mazatlán,23.217,-106.417,linked page
+209,Pink Floyd,direct,Pink Floyd,https://en.wikipedia.org/wiki/Pink_Floyd,111.0,28441.0,477.0,1965.0,origin,"London, England",London,51.50722,-0.1275,searched text
+210,mgk,direct,MGK,https://en.wikipedia.org/wiki/Mgk,45.0,11876.0,177.0,2006.0,birthplace,"Houston, Texas, U.S.",Houston,29.75667,-95.36528,linked page
+211,Wisin & Yandel,direct,Wisin & Yandel,https://en.wikipedia.org/wiki/Wisin_%26_Yandel,27.0,4135.0,41.0,1998.0,origin,"Cayey, Puerto Rico","Cayey, Puerto Rico",18.11167,-66.16583,linked page
+212,Dr. Dre,direct,Dr. Dre,https://en.wikipedia.org/wiki/Dr._Dre,85.0,22674.0,324.0,1984.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+213,Mora,disambiguation,Mora (singer),https://en.wikipedia.org/wiki/Mora_(singer),6.0,667.0,4.0,2017.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+214,Cigarettes After Sex,direct,Cigarettes After Sex,https://en.wikipedia.org/wiki/Cigarettes_After_Sex,33.0,4258.0,88.0,2008.0,origin,"El Paso, Texas, U.S.","El Paso, Texas",31.75917,-106.48861,linked page
+215,Childish Gambino,direct,Donald Glover,https://en.wikipedia.org/wiki/Childish_Gambino,56.0,17281.0,196.0,2004.0,birthplace,"Edwards Air Force Base, California, U.S.",Edwards Air Force Base,34.90556,-117.88361,linked page
+216,Wisin,direct,Wisin,https://en.wikipedia.org/wiki/Wisin,13.0,4811.0,81.0,1998.0,birthplace,"Cayey, Puerto Rico","Cayey, Puerto Rico",18.11167,-66.16583,linked page
+217,Major Lazer,direct,Major Lazer,https://en.wikipedia.org/wiki/Major_Lazer,34.0,5054.0,72.0,2008.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+218,John Mayer,direct,John Mayer,https://en.wikipedia.org/wiki/John_Mayer,55.0,21854.0,293.0,1998.0,birthplace,"Bridgeport, Connecticut, U.S.","Bridgeport, Connecticut",41.18639,-73.19556,linked page
+219,Miguel,disambiguation,Miguel (singer),https://en.wikipedia.org/wiki/Miguel_(singer),26.0,6725.0,81.0,2000.0,birthplace,"Lynwood, California, U.S.","Lynwood, California",33.92472,-118.20194,linked page
+220,Lil Nas X,direct,Lil Nas X,https://en.wikipedia.org/wiki/Lil_Nas_X,52.0,16147.0,215.0,2015.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+221,System Of A Down,direct,System of a Down,https://en.wikipedia.org/wiki/System_Of_A_Down,74.0,12268.0,167.0,1994.0,origin,"Glendale, California, U.S.","Glendale, California",34.14611,-118.255,linked page
+222,Logic,disambiguation,Logic (rapper),https://en.wikipedia.org/wiki/Logic_(rapper),37.0,10882.0,174.0,2005.0,birthplace,"Rockville, Maryland, U.S.","Rockville, Maryland",39.08,-77.14278,linked page
+223,ABBA,direct,ABBA,https://en.wikipedia.org/wiki/ABBA,153.0,23471.0,193.0,1972.0,origin,"Stockholm, Sweden",Stockholm,59.32944,18.06861,linked page
+224,Becky G,direct,Becky G,https://en.wikipedia.org/wiki/Becky_G,48.0,17293.0,301.0,2008.0,birthplace,"Inglewood, California, U.S.","Inglewood, California",33.9575,-118.34611,linked page
+225,Yandel,direct,Yandel,https://en.wikipedia.org/wiki/Yandel,13.0,1380.0,21.0,1995.0,birthplace,"Cayey, Puerto Rico","Cayey, Puerto Rico",18.11167,-66.16583,linked page
+226,Enrique Iglesias,direct,Enrique Iglesias,https://en.wikipedia.org/wiki/Enrique_Iglesias,89.0,16519.0,134.0,1995.0,birthplace,"Madrid, Spain",Madrid,40.4169,-3.7033,linked page
+227,Lil Yachty,direct,Lil Yachty,https://en.wikipedia.org/wiki/Lil_Yachty,34.0,6089.0,73.0,2015.0,birthplace,"Mableton, Georgia, U.S.","Mableton, Georgia",33.81833,-84.57611,linked page
+228,Luis R Conriquez,direct,Luis R. Conriquez,https://en.wikipedia.org/wiki/Luis_R_Conriquez,3.0,3453.0,53.0,2018.0,birthplace,"Caborca, Sonora, Mexico",Caborca,30.717,-112.15,linked page
+229,Zion & Lennox,direct,Zion & Lennox,https://en.wikipedia.org/wiki/Zion_%26_Lennox,9.0,2493.0,8.0,2000.0,origin,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+230,5 Seconds of Summer,direct,5 Seconds of Summer,https://en.wikipedia.org/wiki/5_Seconds_of_Summer,49.0,21040.0,312.0,2011.0,origin,"Sydney, New South Wales, Australia",Sydney,-33.86778,151.21,linked page
+231,Jack Harlow,direct,Jack Harlow,https://en.wikipedia.org/wiki/Jack_Harlow,29.0,7624.0,119.0,2011.0,birthplace,"Louisville, Kentucky, U.S.","Louisville, Kentucky",38.25611,-85.75139,linked page
+232,TWICE,direct,Twice,https://en.wikipedia.org/wiki/TWICE,93.0,28588.0,373.0,2015.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+233,Ñengo Flow,direct,Ñengo Flow,https://en.wikipedia.org/wiki/%C3%91engo_Flow,6.0,678.0,8.0,2004.0,birthplace,"Río Piedras, San Juan, Puerto Rico","Río Piedras, Puerto Rico",18.39556,-66.04583,linked page
+234,Ava Max,direct,Ava Max,https://en.wikipedia.org/wiki/Ava_Max,58.0,9633.0,157.0,2008.0,birthplace,"Milwaukee, Wisconsin, US",Milwaukee,43.05,-87.95,linked page
+235,ZAYN,full-text search,Zayn Malik,https://en.wikipedia.org/wiki/Zayn_Malik,72.0,13700.0,225.0,2010.0,birthplace,"Bradford, West Yorkshire, England",Bradford,53.79444,-1.75194,linked page
+236,Michael Bublé,direct,Michael Bublé,https://en.wikipedia.org/wiki/Michael_Bubl%C3%A9,60.0,10019.0,134.0,1994.0,birthplace,"Burnaby, British Columbia, Canada",Burnaby,49.267,-122.967,linked page
+237,Macklemore,direct,Macklemore,https://en.wikipedia.org/wiki/Macklemore,51.0,8859.0,125.0,2000.0,birthplace,"Seattle, Washington, U.S.",Seattle,47.60389,-122.33,linked page
+238,Anne-Marie,direct,Anne-Marie,https://en.wikipedia.org/wiki/Anne-Marie,47.0,10880.0,207.0,2013.0,birthplace,"East Tilbury, Essex, England",East Tilbury,51.4657,0.4294,linked page
+239,The Rolling Stones,direct,The Rolling Stones,https://en.wikipedia.org/wiki/The_Rolling_Stones,125.0,35009.0,520.0,1962.0,origin,"London, England",London,51.50722,-0.1275,linked page
+240,Frank Sinatra,direct,Frank Sinatra,https://en.wikipedia.org/wiki/Frank_Sinatra,112.0,39180.0,641.0,1935.0,birthplace,"Hoboken, New Jersey, US","Hoboken, New Jersey",40.745,-74.0325,linked page
+241,Robin Schulz,direct,Robin Schulz,https://en.wikipedia.org/wiki/Robin_Schulz,31.0,1379.0,11.0,2007.0,birthplace,"Osnabrück, West Germany",Osnabrück,52.283,8.05,linked page
+242,Bryant Myers,direct,Bryant Myers,https://en.wikipedia.org/wiki/Bryant_Myers,6.0,1195.0,9.0,2015.0,birthplace,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+243,Gusttavo Lima,direct,Gusttavo Lima,https://en.wikipedia.org/wiki/Gusttavo_Lima,23.0,2941.0,18.0,1999.0,birthplace,"Presidente Olegário, Minas Gerais, Brazil",Presidente Olegário,-18.41778,-46.41778,linked page
+244,Eladio Carrion,direct,Eladio Carrión,https://en.wikipedia.org/wiki/Eladio_Carrion,7.0,3106.0,42.0,2015.0,birthplace,"Kansas City, Kansas, U.S.","Kansas City, Kansas",39.10667,-94.67639,linked page
+245,Grupo Firme,direct,Grupo Firme,https://en.wikipedia.org/wiki/Grupo_Firme,2.0,1254.0,18.0,2014.0,origin,"Tijuana, Baja California, Mexico",Tijuana,32.525,-117.03333,linked page
+246,Amitabh Bhattacharya,direct,Amitabh Bhattacharya,https://en.wikipedia.org/wiki/Amitabh_Bhattacharya,12.0,2260.0,11.0,,birthplace,"Lucknow, Uttar Pradesh, India",Lucknow,26.85,80.95,linked page
+247,Alicia Keys,direct,Alicia Keys,https://en.wikipedia.org/wiki/Alicia_Keys,86.0,35526.0,414.0,1985.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+248,Kesha,direct,Kesha,https://en.wikipedia.org/wiki/Kesha,82.0,18927.0,277.0,2005.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+249,LAUV,direct,Lauv,https://en.wikipedia.org/wiki/Lauv,29.0,7012.0,110.0,2008.0,birthplace,"San Francisco, California, U.S.",San Francisco,37.7775,-122.41639,linked page
+250,Madonna,direct,Madonna,https://en.wikipedia.org/wiki/Madonna,156.0,38453.0,590.0,1979.0,birthplace,"Bay City, Michigan, US","Bay City, Michigan",43.595,-83.88861,linked page
+251,Reik,direct,Reik,https://en.wikipedia.org/wiki/Reik,16.0,6117.0,78.0,2003.0,origin,"Mexicali, Baja California, Mexico",Mexicali,32.66333,-115.46778,linked page
+252,John Legend,direct,John Legend,https://en.wikipedia.org/wiki/John_Legend,56.0,17214.0,119.0,1998.0,birthplace,"Springfield, Ohio, U.S.","Springfield, Ohio",39.92,-83.77083,linked page
+253,Meghan Trainor,direct,Meghan Trainor,https://en.wikipedia.org/wiki/Meghan_Trainor,54.0,16019.0,254.0,2009.0,birthplace,"Nantucket, Massachusetts, U.S.",Nantucket,41.28278,-70.09944,linked page
+254,Lil Tecca,direct,Lil Tecca,https://en.wikipedia.org/wiki/Lil_Tecca,23.0,4566.0,93.0,2017.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+255,Lorde,direct,Lorde,https://en.wikipedia.org/wiki/Lorde,70.0,14694.0,221.0,2009.0,birthplace,"Auckland, New Zealand",Auckland,-36.8492,174.7653,linked page
+256,MC Ryan SP,not found,,,,,,,,,,,,
+257,Chris Stapleton,direct,Chris Stapleton,https://en.wikipedia.org/wiki/Chris_Stapleton,27.0,9040.0,117.0,2001.0,birthplace,"Lexington, Kentucky, U.S.","Lexington, Kentucky",38.04639,-84.49694,linked page
+258,French Montana,direct,French Montana,https://en.wikipedia.org/wiki/French_Montana,29.0,10691.0,131.0,2002.0,birthplace,"Casablanca, Morocco",Casablanca,33.533,-7.583,linked page
+259,Melanie Martinez,direct,Melanie Martinez,https://en.wikipedia.org/wiki/Melanie_Martinez,53.0,9267.0,152.0,2012.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+260,Elvis Presley,direct,Elvis Presley,https://en.wikipedia.org/wiki/Elvis_Presley,187.0,31890.0,439.0,1953.0,birthplace,"Tupelo, Mississippi, US","Tupelo, Mississippi",34.25972,-88.72583,linked page
+261,Rick Ross,direct,Rick Ross,https://en.wikipedia.org/wiki/Rick_Ross,43.0,9954.0,122.0,2000.0,birthplace,"Clarksdale, Mississippi, U.S.","Clarksdale, Mississippi",34.2,-90.567,linked page
+262,Cris MJ,direct,Cris MJ,https://en.wikipedia.org/wiki/Cris_MJ,6.0,2631.0,28.0,2019.0,birthplace,"La Serena, Chile","La Serena, Chile",-29.9,-71.25,linked page
+263,Zedd,direct,Zedd,https://en.wikipedia.org/wiki/Zedd,45.0,7106.0,98.0,2002.0,birthplace,"Saratov, Russian SFSR, Soviet Union",Saratov,51.53,46.035,linked page
+264,Paramore,direct,Paramore,https://en.wikipedia.org/wiki/Paramore,139.0,19325.0,329.0,2004.0,origin,"Franklin, Tennessee, U.S.","Franklin, Tennessee",35.92917,-86.8575,linked page
+265,Chance the Rapper,direct,Chance the Rapper,https://en.wikipedia.org/wiki/Chance_the_Rapper,33.0,16988.0,258.0,2011.0,birthplace,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+266,Ninho,direct,Ninho,https://en.wikipedia.org/wiki/Ninho,5.0,4217.0,31.0,2009.0,birthplace,"Paris, France",Paris,48.8567,2.3522,linked page
+267,blackbear,disambiguation,Blackbear (musician),https://en.wikipedia.org/wiki/Blackbear_(musician),18.0,5214.0,73.0,2006.0,birthplace,"Daytona Beach, Florida, U.S.","Daytona Beach, Florida",29.21083,-81.08944,linked page
+268,Creedence Clearwater Revival,direct,Creedence Clearwater Revival,https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival,60.0,9485.0,70.0,1968.0,origin,"El Cerrito, California, U.S.","El Cerrito, California",37.91583,-122.31167,linked page
+269,T-Pain,direct,T-Pain,https://en.wikipedia.org/wiki/T-Pain,47.0,9754.0,112.0,1999.0,birthplace,"Tallahassee, Florida, U.S.","Tallahassee, Florida",30.44194,-84.28194,linked page
+270,Jung Kook,direct,Jung Kook,https://en.wikipedia.org/wiki/Jung_Kook,67.0,13454.0,135.0,2013.0,birthplace,"Busan, South Korea",Busan,35.18,129.075,linked page
+271,Skrillex,direct,Skrillex,https://en.wikipedia.org/wiki/Skrillex,55.0,9022.0,112.0,2004.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+272,DJ Khaled,direct,DJ Khaled,https://en.wikipedia.org/wiki/DJ_Khaled,43.0,10251.0,105.0,1998.0,birthplace,"New Orleans, Louisiana, U.S.",New Orleans,29.9761,-90.0783,linked page
+273,Wizkid,direct,Wizkid,https://en.wikipedia.org/wiki/Wizkid,31.0,14688.0,179.0,2001.0,birthplace,"Ojuelegba, Lagos, Nigeria",Ojuelegba,6.50927,3.36685,linked page
+274,Oasis,disambiguation,Oasis (band),https://en.wikipedia.org/wiki/Oasis_(band),71.0,17140.0,237.0,1991.0,origin,"Manchester, England",Manchester,53.47944,-2.24528,linked page
+275,Christina Aguilera,direct,Christina Aguilera,https://en.wikipedia.org/wiki/Christina_Aguilera,109.0,26806.0,466.0,1990.0,birthplace,"New York City, US",New York City,40.7128,-74.0061,linked page
+276,Slipknot,disambiguation,Slipknot (band),https://en.wikipedia.org/wiki/Slipknot_(band),68.0,19244.0,308.0,1995.0,origin,"Des Moines, Iowa, U.S.","Des Moines, Iowa",41.59083,-93.62083,linked page
+277,Irshad Kamil,direct,Irshad Kamil,https://en.wikipedia.org/wiki/Irshad_Kamil,11.0,3278.0,112.0,2004.0,birthplace,"Malerkotla, Punjab, India",Malerkotla,30.5167,75.8833,linked page
+278,Little Mix,direct,Little Mix,https://en.wikipedia.org/wiki/Little_Mix,48.0,23850.0,348.0,2011.0,origin,"London, England",London,51.50722,-0.1275,searched text
+279,Beéle,direct,Beéle,https://en.wikipedia.org/wiki/Be%C3%A9le,8.0,6768.0,136.0,2019.0,birthplace,"Barranquilla, Atlántico, Colombia",Barranquilla,10.98333,-74.80194,linked page
+280,The Notorious B.I.G.,direct,The Notorious B.I.G.,https://en.wikipedia.org/wiki/The_Notorious_B.I.G.,64.0,16457.0,311.0,1992.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+281,Mitski,direct,Mitski,https://en.wikipedia.org/wiki/Mitski,37.0,10215.0,150.0,2012.0,birthplace,"Mie Prefecture, Japan",Mie Prefecture,34.7,136.5,linked page
+282,Tainy,direct,Tainy,https://en.wikipedia.org/wiki/Tainy,10.0,5896.0,87.0,2003.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+283,Zé Neto & Cristiano,not found,,,,,,,,,,,,
+284,Rammstein,direct,Rammstein,https://en.wikipedia.org/wiki/Rammstein,87.0,14329.0,152.0,1994.0,origin,"Berlin, Germany",Berlin,52.52,13.405,linked page
+285,Labrinth,direct,Labrinth,https://en.wikipedia.org/wiki/Labrinth,29.0,9260.0,106.0,2009.0,birthplace,"Hackney, London, England",London Borough of Hackney,51.55,-0.05833,linked page
+286,Chencho Corleone,direct,Chencho Corleone,https://en.wikipedia.org/wiki/Chencho_Corleone,3.0,2303.0,37.0,1999.0,birthplace,"Guayama, Puerto Rico","Guayama, Puerto Rico",17.97417,-66.11,linked page
+287,Darell,disambiguation,Darell (rapper),https://en.wikipedia.org/wiki/Darell_(rapper),2.0,2829.0,41.0,2010.0,birthplace,Puerto Rico,Puerto Rico,18.217,-66.5,linked page
+288,Bon Jovi,direct,Bon Jovi,https://en.wikipedia.org/wiki/Bon_Jovi,79.0,13208.0,133.0,1983.0,origin,"Sayreville, New Jersey, U.S.","Sayreville, New Jersey",40.4625,-74.325,linked page
+289,The Killers,direct,The Killers,https://en.wikipedia.org/wiki/The_Killers,65.0,15102.0,194.0,2001.0,origin,"Las Vegas, Nevada, U.S.",Las Vegas,36.16917,-115.14056,linked page
+290,blink-182,direct,Blink-182,https://en.wikipedia.org/wiki/Blink-182,66.0,15911.0,261.0,1992.0,origin,"Poway, California, U.S.","Poway, California",32.97,-117.03861,linked page
+291,Summer Walker,direct,Summer Walker,https://en.wikipedia.org/wiki/Summer_Walker,21.0,4451.0,79.0,2017.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+292,Jhené Aiko,direct,Jhené Aiko,https://en.wikipedia.org/wiki/Jhen%C3%A9_Aiko,31.0,8693.0,145.0,2002.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+293,Kehlani,direct,Kehlani,https://en.wikipedia.org/wiki/Kehlani,32.0,10915.0,155.0,2009.0,birthplace,"Oakland, California, U.S.","Oakland, California",37.80444,-122.27083,linked page
+294,Clean Bandit,direct,Clean Bandit,https://en.wikipedia.org/wiki/Clean_Bandit,40.0,5577.0,77.0,2008.0,origin,"Cambridge, England",Cambridge,52.205,0.1225,linked page
+295,David Bowie,direct,David Bowie,https://en.wikipedia.org/wiki/David_Bowie,117.0,31597.0,486.0,1962.0,birthplace,"London, England",London,51.50722,-0.1275,searched text
+296,U2,direct,U2,https://en.wikipedia.org/wiki/U2,105.0,36025.0,557.0,1976.0,origin,"Dublin, Ireland",Dublin,53.35,-6.26028,searched text
+297,Aventura,disambiguation,Aventura (band),https://en.wikipedia.org/wiki/Aventura_(band),29.0,7981.0,56.0,1994.0,origin,"The Bronx, New York",The Bronx,40.83722,-73.88611,linked page
+298,Foo Fighters,direct,Foo Fighters,https://en.wikipedia.org/wiki/Foo_Fighters,63.0,16334.0,168.0,1994.0,origin,"Seattle, Washington, U.S.",Seattle,47.60389,-122.33,linked page
+299,The 1975,direct,The 1975,https://en.wikipedia.org/wiki/The_1975,36.0,11553.0,187.0,2002.0,origin,"Wilmslow, Cheshire, England",Wilmslow,53.325,-2.239,linked page
+300,Maria Becerra,direct,María Becerra,https://en.wikipedia.org/wiki/Maria_Becerra,18.0,5861.0,93.0,2015.0,birthplace,"Quilmes, Buenos Aires, Argentina",Quilmes,-34.71667,-58.26667,linked page
+301,Plan B,disambiguation,Plan B (musician),https://en.wikipedia.org/wiki/Plan_B_(musician),19.0,3801.0,35.0,2005.0,birthplace,"London, England",London,51.50722,-0.1275,linked page
+302,Steve Lacy,direct,Steve Lacy,https://en.wikipedia.org/wiki/Steve_Lacy,20.0,5417.0,94.0,2013.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+303,De La Ghetto,direct,De la Ghetto,https://en.wikipedia.org/wiki/De_La_Ghetto,6.0,1805.0,18.0,2004.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+304,Troye Sivan,direct,Troye Sivan,https://en.wikipedia.org/wiki/Troye_Sivan,53.0,9401.0,142.0,2006.0,birthplace,"Johannesburg, South Africa",Johannesburg,-26.20444,28.04556,linked page
+305,Conan Gray,direct,Conan Gray,https://en.wikipedia.org/wiki/Conan_Gray,36.0,6905.0,128.0,2011.0,birthplace,"Lemon Grove, California, U.S.","Lemon Grove, California",32.74139,-117.03167,linked page
+306,Ludacris,direct,Ludacris,https://en.wikipedia.org/wiki/Ludacris,53.0,11025.0,68.0,1998.0,birthplace,"Champaign, Illinois, U.S.","Champaign, Illinois",40.1164,-88.2436,linked page
+307,Burna Boy,direct,Burna Boy,https://en.wikipedia.org/wiki/Burna_Boy,39.0,9667.0,157.0,2010.0,birthplace,"Port Harcourt, Rivers State, Nigeria",Port Harcourt,4.82417,7.03361,linked page
+308,Danny Ocean,disambiguation,Danny Ocean (singer),https://en.wikipedia.org/wiki/Danny_Ocean_(singer),9.0,3958.0,40.0,2009.0,birthplace,"Caracas, Venezuela",Caracas,10.50611,-66.91444,linked page
+309,Meek Mill,direct,Meek Mill,https://en.wikipedia.org/wiki/Meek_Mill,27.0,12641.0,177.0,2006.0,birthplace,"Philadelphia, Pennsylvania, U.S.",Philadelphia,39.9528,-75.1636,linked page
+310,My Chemical Romance,direct,My Chemical Romance,https://en.wikipedia.org/wiki/My_Chemical_Romance,65.0,17591.0,286.0,2001.0,origin,"New Jersey, U.S.",New Jersey,40.0,-74.5,linked page
+311,Alessia Cara,direct,Alessia Cara,https://en.wikipedia.org/wiki/Alessia_Cara,40.0,8626.0,132.0,2014.0,birthplace,"Mississauga, Ontario, Canada",Mississauga,43.6,-79.65,linked page
+312,Vishal-Shekhar,direct,Vishal–Shekhar,https://en.wikipedia.org/wiki/Vishal-Shekhar,14.0,3274.0,40.0,1999.0,origin,"Mumbai, Maharashtra, India",Mumbai,19.07611,72.8775,linked page
+313,Paulo Londra,direct,Paulo Londra,https://en.wikipedia.org/wiki/Paulo_Londra,25.0,1951.0,29.0,2017.0,birthplace,"Córdoba, Argentina","Córdoba, Argentina",-31.417,-64.183,linked page
+314,La Arrolladora Banda El Limón De Rene Camacho,direct,La Arrolladora Banda El Limón,https://en.wikipedia.org/wiki/La_Arrolladora_Banda_el_Limon_de_Rene_Camacho,4.0,667.0,2.0,,origin (article text),"Mazatlán, Sinaloa",Mazatlán,23.217,-106.417,linked page
+315,Yeat,direct,Yeat,https://en.wikipedia.org/wiki/Yeat,37.0,4480.0,67.0,2015.0,birthplace,"Irvine, California, U.S.","Irvine, California",33.66944,-117.82306,linked page
+316,Matheus & Kauan,direct,Matheus & Kauan,https://en.wikipedia.org/wiki/Matheus_%26_Kauan,2.0,887.0,11.0,2010.0,origin,"Itapuranga, Goiás",Itapuranga,-15.56194,-49.94889,linked page
+317,Alok,disambiguation,Alok (DJ),https://en.wikipedia.org/wiki/Alok_(DJ),20.0,1722.0,20.0,2004.0,birthplace,"Goiânia, Goiás, Brazil",Goiânia,-16.667,-49.25,linked page
+318,Bring Me The Horizon,direct,Bring Me the Horizon,https://en.wikipedia.org/wiki/Bring_Me_The_Horizon,47.0,19999.0,317.0,2004.0,origin,"Sheffield, South Yorkshire, England",Sheffield,53.38083,-1.47028,linked page
+319,Central Cee,direct,Central Cee,https://en.wikipedia.org/wiki/Central_Cee,37.0,6409.0,112.0,2014.0,birthplace,"Ladbroke Grove, London, England",Ladbroke Grove,51.519,-0.211,linked page
+320,League of Legends,manual title,Riot Games,https://en.wikipedia.org/wiki/Riot_Games,34.0,10369.0,133.0,,headquarters,"Los Angeles, US",Los Angeles,34.05,-118.25,linked page
+321,Mac DeMarco,direct,Mac DeMarco,https://en.wikipedia.org/wiki/Mac_DeMarco,33.0,5304.0,91.0,2008.0,birthplace,"Duncan, British Columbia, Canada","Duncan, British Columbia",48.7786,-123.7081,linked page
+322,Benson Boone,direct,Benson Boone,https://en.wikipedia.org/wiki/Benson_Boone,33.0,4843.0,65.0,2021.0,birthplace,"Monroe, Washington, U.S.","Monroe, Washington",47.85778,-121.98833,linked page
+323,Dalex,direct,Dalex,https://en.wikipedia.org/wiki/Dalex,2.0,3978.0,113.0,2015.0,birthplace,"Philadelphia, Pennsylvania, U.S.",Philadelphia,39.9528,-75.1636,linked page
+324,Nickelback,direct,Nickelback,https://en.wikipedia.org/wiki/Nickelback,64.0,12685.0,196.0,1995.0,origin,"Hanna, Alberta, Canada","Hanna, Alberta",51.63833,-111.94194,linked page
+325,Marc Anthony,direct,Marc Anthony,https://en.wikipedia.org/wiki/Marc_Anthony,53.0,6881.0,65.0,1988.0,birthplace,"New York City, New York, U.S.",New York City,40.7128,-74.0061,linked page
+326,Maná,direct,Maná,https://en.wikipedia.org/wiki/Man%C3%A1,29.0,4161.0,33.0,1986.0,origin,"Guadalajara, Jalisco, Mexico",Guadalajara,20.67667,-103.3475,linked page
+327,Led Zeppelin,direct,Led Zeppelin,https://en.wikipedia.org/wiki/Led_Zeppelin,110.0,19848.0,264.0,1968.0,origin,"London, England",London,51.50722,-0.1275,linked page
+328,Måneskin,direct,Måneskin,https://en.wikipedia.org/wiki/M%C3%A5neskin,72.0,13232.0,158.0,2016.0,origin,"Rome, Italy",Rome,41.89333,12.48278,linked page
+329,Florida Georgia Line,direct,Florida Georgia Line,https://en.wikipedia.org/wiki/Florida_Georgia_Line,21.0,7202.0,103.0,2010.0,origin,"Nashville, Tennessee, U.S.","Nashville, Tennessee",36.16222,-86.77444,linked page
+330,Luis Fonsi,direct,Luis Fonsi,https://en.wikipedia.org/wiki/Luis_Fonsi,53.0,9593.0,119.0,1997.0,birthplace,"San Juan, Puerto Rico","San Juan, Puerto Rico",18.40639,-66.06389,linked page
+331,RAYE,direct,Raye,https://en.wikipedia.org/wiki/RAYE,40.0,11700.0,183.0,2014.0,birthplace,"Tooting, London, England",Tooting,51.428,-0.165,linked page
+332,Neton Vega,direct,Netón Vega,https://en.wikipedia.org/wiki/Neton_Vega,0.0,2276.0,31.0,2023.0,birthplace,"La Paz, Baja California Sur, Mexico","La Paz, Baja California Sur",24.14222,-110.31083,linked page
+333,Gracie Abrams,direct,Gracie Abrams,https://en.wikipedia.org/wiki/Gracie_Abrams,48.0,6255.0,108.0,2017.0,birthplace,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,searched text
+334,Timbaland,direct,Timbaland,https://en.wikipedia.org/wiki/Timbaland,54.0,10318.0,126.0,1990.0,birthplace,"Norfolk, Virginia, U.S.","Norfolk, Virginia",36.84694,-76.28528,linked page
+335,Jeremih,direct,Jeremih,https://en.wikipedia.org/wiki/Jeremih,21.0,5372.0,86.0,2009.0,birthplace,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+336,The Lumineers,direct,The Lumineers,https://en.wikipedia.org/wiki/The_Lumineers,24.0,7776.0,128.0,2005.0,origin,"Ramsey, New Jersey, U.S.","Ramsey, New Jersey",41.061325,-74.146996,linked page
+337,Oscar Maydon,direct,Óscar Maydon,https://en.wikipedia.org/wiki/Oscar_Maydon,1.0,3807.0,70.0,2018.0,birthplace,"Mexicali, Baja California, Mexico",Mexicali,32.66333,-115.46778,linked page
+338,Anderson .Paak,direct,Anderson .Paak,https://en.wikipedia.org/wiki/Anderson_.Paak,25.0,10534.0,105.0,2009.0,birthplace,"Oxnard, California, U.S.","Oxnard, California",34.19139,-119.1825,linked page
+339,Chase Atlantic,direct,Chase Atlantic,https://en.wikipedia.org/wiki/Chase_Atlantic,14.0,4321.0,75.0,2014.0,origin,"Cairns, Queensland, Australia",Cairns,-16.92,145.78,linked page
+340,Julión Álvarez y su Norteño Banda,direct,Julión Álvarez,https://en.wikipedia.org/wiki/Juli%C3%B3n_%C3%81lvarez_y_su_Norte%C3%B1o_Banda,3.0,1886.0,16.0,2002.0,birthplace,"La Concordia, Chiapas, Mexico","La Concordia, Chiapas",16.117,-92.683,linked page
+341,Prince Royce,direct,Prince Royce,https://en.wikipedia.org/wiki/Prince_Royce,22.0,7491.0,94.0,2008.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+342,Bastille,disambiguation,Bastille (band),https://en.wikipedia.org/wiki/Bastille_(band),35.0,9859.0,150.0,2010.0,origin,"London, England",London,51.50722,-0.1275,linked page
+343,Sfera Ebbasta,direct,Sfera Ebbasta,https://en.wikipedia.org/wiki/Sfera_Ebbasta,9.0,5274.0,58.0,2011.0,birthplace,"Sesto San Giovanni, Lombardy, Italy",Sesto San Giovanni,45.533,9.233,linked page
+344,Florence + The Machine,direct,Florence and the Machine,https://en.wikipedia.org/wiki/Florence_%2B_The_Machine,56.0,12058.0,179.0,2007.0,origin,"London, England",London,51.50722,-0.1275,linked page
+345,YG,disambiguation,YG (rapper),https://en.wikipedia.org/wiki/YG_(rapper),25.0,6429.0,93.0,2008.0,birthplace,"Compton, California, U.S.","Compton, California",33.89667,-118.225,linked page
+346,Alejandro Sanz,direct,Alejandro Sanz,https://en.wikipedia.org/wiki/Alejandro_Sanz,40.0,8182.0,69.0,1988.0,birthplace,"Madrid, Spain",Madrid,40.4169,-3.7033,linked page
+347,Lil Tjay,direct,Lil Tjay,https://en.wikipedia.org/wiki/Lil_Tjay,22.0,4123.0,53.0,2017.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+348,GIVĒON,direct,Giveon,https://en.wikipedia.org/wiki/GIV%C4%92ON,14.0,3851.0,62.0,2018.0,birthplace,"Long Beach, California, U.S.","Long Beach, California",33.76833,-118.19556,linked page
+349,Billy Joel,direct,Billy Joel,https://en.wikipedia.org/wiki/Billy_Joel,62.0,24728.0,276.0,1964.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,searched text
+350,Luke Bryan,direct,Luke Bryan,https://en.wikipedia.org/wiki/Luke_Bryan,25.0,8878.0,123.0,2001.0,birthplace,"Edison, Georgia, U.S.","Edison, Georgia",31.56083,-84.73806,linked page
+351,Muse,disambiguation,Muse (band),https://en.wikipedia.org/wiki/Muse_(band),75.0,12671.0,217.0,1994.0,origin,"Teignmouth, Devon, England",Teignmouth,50.5515,-3.4886,linked page
+352,Jonas Blue,direct,Jonas Blue,https://en.wikipedia.org/wiki/Jonas_Blue,26.0,2266.0,35.0,2009.0,birthplace,"Essex, England",Essex,51.75,0.583,linked page
+353,Teddy Swims,direct,Teddy Swims,https://en.wikipedia.org/wiki/Teddy_Swims,21.0,4761.0,75.0,2019.0,birthplace,"Conyers, Georgia, U.S.","Conyers, Georgia",33.66639,-84.0075,linked page
+354,Juanes,direct,Juanes,https://en.wikipedia.org/wiki/Juanes,74.0,8822.0,65.0,1988.0,birthplace,"Medellín, Colombia",Medellín,6.23083,-75.59056,linked page
+355,Jennifer Lopez,direct,Jennifer Lopez,https://en.wikipedia.org/wiki/Jennifer_Lopez,119.0,36722.0,601.0,1989.0,birthplace,"The Bronx, New York City, U.S.",The Bronx,40.83722,-73.88611,linked page
+356,Cartel De Santa,direct,Cartel de Santa,https://en.wikipedia.org/wiki/Cartel_De_Santa,38.0,1505.0,15.0,1996.0,origin,"Santa Catarina, Nuevo León, Mexico","Santa Catarina, Nuevo León",25.683,-100.45,linked page
+357,T.I.,direct,T.I.,https://en.wikipedia.org/wiki/T.I.,48.0,25137.0,289.0,1999.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+358,Gabito Ballesteros,direct,Gabito Ballesteros,https://en.wikipedia.org/wiki/Gabito_Ballesteros,1.0,5690.0,87.0,2014.0,birthplace,"Cumpas, Sonora, Mexico",Sonora,29.64611,-110.86889,linked page
+359,El Alfa,direct,El Alfa,https://en.wikipedia.org/wiki/El_Alfa,7.0,5126.0,96.0,2008.0,birthplace,"Bajos de Haina, Dominican Republic",Bajos de Haina,18.417,-70.033,linked page
+360,Alka Yagnik,direct,Alka Yagnik,https://en.wikipedia.org/wiki/Alka_Yagnik,44.0,3801.0,64.0,1980.0,birthplace,"Kolkata, West Bengal, India",Kolkata,22.5675,88.37,linked page
+361,Blessd,direct,Blessd,https://en.wikipedia.org/wiki/Blessd,6.0,4069.0,64.0,2018.0,birthplace,"Itagüí, Antioquia, Colombia",Itagüí,6.167,-75.617,linked page
+362,NATTI NATASHA,direct,Natti Natasha,https://en.wikipedia.org/wiki/Natti_Natasha,25.0,1719.0,18.0,2010.0,birthplace,"Santiago de los Caballeros, Dominican Republic",Santiago de los Caballeros,19.45722,-70.68889,linked page
+363,Bruce Springsteen,direct,Bruce Springsteen,https://en.wikipedia.org/wiki/Bruce_Springsteen,92.0,33254.0,373.0,1964.0,birthplace,"Long Branch, New Jersey, U.S.","Long Branch, New Jersey",40.295372,-73.989899,linked page
+364,Alfredo Olivas,direct,Alfredo Olivas,https://en.wikipedia.org/wiki/Alfredo_Olivas,2.0,1020.0,12.0,2011.0,birthplace,"Ciudad Obregón, Sonora, Mexico",Ciudad Obregón,27.49389,-109.93889,linked page
+365,Jonas Brothers,direct,Jonas Brothers,https://en.wikipedia.org/wiki/Jonas_Brothers,66.0,13381.0,176.0,2005.0,origin,"Wyckoff, New Jersey, U.S.","Wyckoff, New Jersey",40.999093,-74.168849,linked page
+366,Hans Zimmer,direct,Hans Zimmer,https://en.wikipedia.org/wiki/Hans_Zimmer,85.0,12303.0,103.0,1977.0,birthplace,"Frankfurt, West Germany",Frankfurt,50.11056,8.68222,linked page
+367,Julia Michaels,direct,Julia Michaels,https://en.wikipedia.org/wiki/Julia_Michaels,39.0,3614.0,64.0,2010.0,birthplace,"Davenport, Iowa, U.S.","Davenport, Iowa",41.55682,-90.603948,linked page
+368,Deftones,direct,Deftones,https://en.wikipedia.org/wiki/Deftones,59.0,15300.0,258.0,1988.0,origin,"Sacramento, California, U.S.","Sacramento, California",38.58167,-121.49444,linked page
+369,Clairo,direct,Clairo,https://en.wikipedia.org/wiki/Clairo,29.0,6247.0,126.0,2012.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+370,Whitney Houston,direct,Whitney Houston,https://en.wikipedia.org/wiki/Whitney_Houston,124.0,42437.0,575.0,1977.0,birthplace,"Newark, New Jersey, U.S.","Newark, New Jersey",40.7356,-74.1722,linked page
+371,Tove Lo,direct,Tove Lo,https://en.wikipedia.org/wiki/Tove_Lo,43.0,14971.0,245.0,2006.0,birthplace,"Helsingborg, Sweden",Helsingborg,56.05,12.717,linked page
+372,DJ Luian,direct,DJ Luian,https://en.wikipedia.org/wiki/DJ_Luian,0.0,2302.0,34.0,2010.0,birthplace,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+373,Amy Winehouse,direct,Amy Winehouse,https://en.wikipedia.org/wiki/Amy_Winehouse,111.0,23631.0,339.0,2003.0,birthplace,"London, England",London,51.50722,-0.1275,linked page
+374,TV Girl,direct,TV Girl,https://en.wikipedia.org/wiki/TV_Girl,17.0,3375.0,50.0,2010.0,origin,"San Diego, California, U.S.",San Diego,32.715,-117.1625,linked page
+375,Tanishk Bagchi,direct,Tanishk Bagchi,https://en.wikipedia.org/wiki/Tanishk_Bagchi,5.0,6822.0,47.0,2007.0,birthplace,"Kolkata, West Bengal, India",Kolkata,22.5675,88.37,linked page
+376,Dave,disambiguation,Dave (rapper),https://en.wikipedia.org/wiki/Dave_(rapper),19.0,10826.0,169.0,2015.0,birthplace,"London, England",London,51.50722,-0.1275,searched text
+377,Avril Lavigne,direct,Avril Lavigne,https://en.wikipedia.org/wiki/Avril_Lavigne,122.0,26216.0,376.0,1999.0,birthplace,"Belleville, Ontario, Canada","Belleville, Ontario",44.167,-77.383,linked page
+378,Lost Frequencies,direct,Lost Frequencies,https://en.wikipedia.org/wiki/Lost_Frequencies,26.0,1428.0,22.0,2014.0,birthplace,"Brussels, Belgium",City of Brussels,50.84667,4.3525,linked page
+379,Kings of Leon,direct,Kings of Leon,https://en.wikipedia.org/wiki/Kings_of_Leon,48.0,7253.0,58.0,1999.0,origin,"Mount Juliet, Tennessee, U.S.","Mount Juliet, Tennessee",36.20278,-86.51361,linked page
+380,Joan Sebastian,direct,Joan Sebastian,https://en.wikipedia.org/wiki/Joan_Sebastian,11.0,2891.0,29.0,1975.0,birthplace,"Juliantla, Guerrero, Mexico",Juliantla,18.317,-99.867,linked page
+381,Alejandro Fernández,direct,Alejandro Fernández,https://en.wikipedia.org/wiki/Alejandro_Fern%C3%A1ndez,23.0,4408.0,44.0,1976.0,birthplace,"Guadalajara, Jalisco, Mexico",Guadalajara,20.67667,-103.3475,linked page
+382,Glass Animals,direct,Glass Animals,https://en.wikipedia.org/wiki/Glass_Animals,25.0,8123.0,166.0,2010.0,origin,"Oxford, England",Oxford,51.75194,-1.25778,linked page
+383,Sachin-Jigar,direct,Sachin–Jigar,https://en.wikipedia.org/wiki/Sachin-Jigar,7.0,1894.0,12.0,2009.0,origin,"Mumbai, India",Mumbai,19.07611,72.8775,linked page
+384,Fetty Wap,direct,Fetty Wap,https://en.wikipedia.org/wiki/Fetty_Wap,23.0,5927.0,94.0,2013.0,birthplace,"Paterson, New Jersey, U.S.","Paterson, New Jersey",40.91472,-74.1625,linked page
+385,NAV,disambiguation,Nav (rapper),https://en.wikipedia.org/wiki/Nav_(rapper),17.0,4672.0,62.0,2015.0,birthplace,"Toronto, Ontario, Canada",Toronto,43.6525,-79.38167,linked page
+386,Jack Johnson,disambiguation,Jack Johnson (musician),https://en.wikipedia.org/wiki/Jack_Johnson_(musician),41.0,6797.0,93.0,1992.0,birthplace,"North Shore, Oahu, Hawaii, U.S.",North Shore (Oʻahu),21.6197,-158.0856,linked page
+387,SEVENTEEN,direct,Seventeen (South Korean band),https://en.wikipedia.org/wiki/SEVENTEEN,46.0,22056.0,291.0,2015.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+388,The Script,direct,The Script,https://en.wikipedia.org/wiki/The_Script,42.0,5811.0,77.0,2001.0,origin,"Dublin, Ireland",Dublin,53.35,-6.26028,linked page
+389,TINI,direct,Tini (singer),https://en.wikipedia.org/wiki/TINI,43.0,26473.0,402.0,2007.0,birthplace,"Buenos Aires, Argentina",Buenos Aires,-34.60389,-58.38139,linked page
+390,Backstreet Boys,direct,Backstreet Boys,https://en.wikipedia.org/wiki/Backstreet_Boys,70.0,17426.0,245.0,1993.0,origin,"Orlando, Florida, U.S.","Orlando, Florida",28.54222,-81.37917,linked page
+391,Jimin,direct,Jimin,https://en.wikipedia.org/wiki/Jimin,58.0,10857.0,129.0,2013.0,birthplace,"Busan, South Korea",Busan,35.18,129.075,linked page
+392,Mambo Kingz,not found,,,,,,,,,,,,
+393,NLE Choppa,direct,NLE Choppa,https://en.wikipedia.org/wiki/NLE_Choppa,23.0,3416.0,55.0,2018.0,birthplace,"Memphis, Tennessee, U.S.","Memphis, Tennessee",35.14611,-90.05194,linked page
+394,GIMS,direct,Gims,https://en.wikipedia.org/wiki/GIMS,34.0,10651.0,131.0,2002.0,birthplace,"Kinshasa, DR Congo",Kinshasa,-4.32194,15.31194,linked page
+395,Calibre 50,direct,Calibre 50,https://en.wikipedia.org/wiki/Calibre_50,3.0,2050.0,17.0,2010.0,origin,"Mazatlán, Sinaloa, Mexico",Mazatlán,23.217,-106.417,linked page
+396,Chappell Roan,direct,Chappell Roan,https://en.wikipedia.org/wiki/Chappell_Roan,48.0,14410.0,218.0,2014.0,birthplace,"Willard, Missouri, U.S.","Willard, Missouri",37.29444,-93.42333,linked page
+397,Stevie Wonder,direct,Stevie Wonder,https://en.wikipedia.org/wiki/Stevie_Wonder,84.0,25407.0,256.0,1961.0,birthplace,"Saginaw, Michigan, U.S.","Saginaw, Michigan",43.42,-83.95,linked page
+398,Juicy J,direct,Juicy J,https://en.wikipedia.org/wiki/Juicy_J,30.0,4958.0,46.0,1991.0,birthplace,"Memphis, Tennessee, U.S.","Memphis, Tennessee",35.14611,-90.05194,linked page
+399,Mark Ronson,direct,Mark Ronson,https://en.wikipedia.org/wiki/Mark_Ronson,42.0,17375.0,105.0,1993.0,birthplace,"London, England",London,51.50722,-0.1275,linked page
+400,Kelly Clarkson,direct,Kelly Clarkson,https://en.wikipedia.org/wiki/Kelly_Clarkson,75.0,23166.0,274.0,2002.0,birthplace,"Fort Worth, Texas, U.S.","Fort Worth, Texas",32.75639,-97.3325,linked page
+401,The Offspring,direct,The Offspring,https://en.wikipedia.org/wiki/The_Offspring,56.0,11754.0,160.0,1984.0,origin,"Garden Grove, California, U.S.","Garden Grove, California",33.77889,-117.96028,linked page
+402,Bonez MC,direct,Bonez MC,https://en.wikipedia.org/wiki/Bonez_MC,9.0,1177.0,1.0,2006.0,birthplace,"Hamburg, West Germany",Hamburg,53.55,10.0,linked page
+403,Bibi Blocksberg,not found,,,,,,,,,,,,
+404,Milo j,direct,Milo J,https://en.wikipedia.org/wiki/Milo_J,10.0,4126.0,56.0,2021.0,birthplace,"Morón, Buenos Aires, Argentina","Morón, Buenos Aires",-34.65,-58.617,linked page
+405,Jay Wheeler,direct,Jay Wheeler,https://en.wikipedia.org/wiki/Jay_Wheeler,4.0,2502.0,32.0,2016.0,birthplace,"Salinas, Puerto Rico","Salinas, Puerto Rico",17.977,-66.298,linked page
+406,felix jaehn,direct,Felix Jaehn,https://en.wikipedia.org/wiki/Felix_Jaehn,21.0,1370.0,21.0,2012.0,birthplace,"Hamburg, Germany",Hamburg,53.55,10.0,linked page
+407,Niall Horan,direct,Niall Horan,https://en.wikipedia.org/wiki/Niall_Horan,54.0,10227.0,180.0,2010.0,birthplace,"Mullingar, County Westmeath, Ireland",Mullingar,53.5224,-7.3378,linked page
+408,6ix9ine,direct,6ix9ine,https://en.wikipedia.org/wiki/6ix9ine,49.0,15548.0,238.0,2012.0,birthplace,"New York City, U.S.",New York City,40.7128,-74.0061,linked page
+409,Nate Dogg,direct,Nate Dogg,https://en.wikipedia.org/wiki/Nate_Dogg,36.0,4603.0,63.0,1992.0,birthplace,"Long Beach, California, U.S.","Long Beach, California",33.76833,-118.19556,linked page
+410,Noriel,direct,Noriel,https://en.wikipedia.org/wiki/Noriel,3.0,3167.0,9.0,2012.0,birthplace,"Hato Rey, Puerto Rico",Hato Rey,18.4235,-66.0576,linked page
+411,Vicente Fernández,direct,Vicente Fernández,https://en.wikipedia.org/wiki/Vicente_Fern%C3%A1ndez,32.0,8534.0,96.0,1966.0,birthplace,"Guadalajara, Jalisco, Mexico",Guadalajara,20.67667,-103.3475,linked page
+412,Three Days Grace,direct,Three Days Grace,https://en.wikipedia.org/wiki/Three_Days_Grace,47.0,15029.0,257.0,1992.0,origin,"Norwood, Ontario, Canada",Asphodel–Norwood,44.35306,-78.01833,linked page
+413,Aerosmith,direct,Aerosmith,https://en.wikipedia.org/wiki/Aerosmith,78.0,25643.0,332.0,1970.0,origin,"Boston, Massachusetts, U.S.",Boston,42.36028,-71.05778,linked page
+414,Bee Gees,direct,Bee Gees,https://en.wikipedia.org/wiki/Bee_Gees,69.0,19333.0,214.0,1958.0,,,,,,
+415,Udit Narayan,direct,Udit Narayan,https://en.wikipedia.org/wiki/Udit_Narayan,40.0,6479.0,42.0,1980.0,birthplace,"Baisi, Supaul district, Bihar, India",Supaul district,25.93,86.25,linked page
+416,Piso 21,direct,Piso 21,https://en.wikipedia.org/wiki/Piso_21,6.0,5146.0,78.0,2007.0,origin,"Medellín, Colombia",Medellín,6.23083,-75.59056,linked page
+417,Rod Wave,direct,Rod Wave,https://en.wikipedia.org/wiki/Rod_Wave,13.0,8848.0,120.0,2016.0,birthplace,"St. Petersburg, Florida, U.S.","St. Petersburg, Florida",27.82222,-82.67056,linked page
+418,Vance Joy,direct,Vance Joy,https://en.wikipedia.org/wiki/Vance_Joy,23.0,3343.0,44.0,2013.0,birthplace,"Melbourne, Victoria, Australia",Melbourne,-37.81417,144.96306,linked page
+419,Bon Iver,direct,Bon Iver,https://en.wikipedia.org/wiki/Bon_Iver,36.0,8448.0,97.0,2006.0,origin,"Eau Claire, Wisconsin, U.S.","Eau Claire, Wisconsin",44.817,-91.5,linked page
+420,Eslabon Armado,direct,Eslabón Armado,https://en.wikipedia.org/wiki/Eslabon_Armado,2.0,3918.0,54.0,2017.0,origin,"Patterson, California, U.S.","Patterson, California",37.47306,-121.13278,linked page
+421,JENNIE,direct,Jennie (singer),https://en.wikipedia.org/wiki/JENNIE,76.0,20842.0,288.0,2012.0,birthplace,"Seongnam, Gyeonggi, South Korea",Seongnam,37.433,127.15,linked page
+422,Russ,disambiguation,Russ (rapper),https://en.wikipedia.org/wiki/Russ_(rapper),11.0,2736.0,50.0,2007.0,birthplace,"Secaucus, New Jersey, U.S.","Secaucus, New Jersey",40.781958,-74.067649,linked page
+423,Rae Sremmurd,direct,Rae Sremmurd,https://en.wikipedia.org/wiki/Rae_Sremmurd,24.0,5398.0,84.0,2013.0,origin,"Tupelo, Mississippi, U.S.","Tupelo, Mississippi",34.25972,-88.72583,linked page
+424,Jess Glynne,direct,Jess Glynne,https://en.wikipedia.org/wiki/Jess_Glynne,38.0,5712.0,81.0,2013.0,birthplace,"Hampstead, London, England",Hampstead,51.5541,-0.1744,linked page
+425,The Smiths,direct,The Smiths,https://en.wikipedia.org/wiki/The_Smiths,55.0,13589.0,169.0,1982.0,origin,"Manchester, England",Manchester,53.47944,-2.24528,linked page
+426,Eagles,disambiguation,Eagles (band),https://en.wikipedia.org/wiki/Eagles_(band),74.0,13969.0,144.0,1971.0,origin,"Los Angeles, California, U.S.",Los Angeles,34.05,-118.25,linked page
+427,The Police,direct,The Police,https://en.wikipedia.org/wiki/The_Police,61.0,12116.0,107.0,1977.0,origin,"London, England",London,51.50722,-0.1275,searched text
+428,Phil Collins,direct,Phil Collins,https://en.wikipedia.org/wiki/Phil_Collins,83.0,31264.0,339.0,1963.0,birthplace,"London, England",London,51.50722,-0.1275,searched text
+429,The Strokes,direct,The Strokes,https://en.wikipedia.org/wiki/The_Strokes,54.0,10299.0,134.0,1998.0,origin,"New York City, New York, U.S.",New York City,40.7128,-74.0061,linked page
+430,Atif Aslam,direct,Atif Aslam,https://en.wikipedia.org/wiki/Atif_Aslam,32.0,6965.0,115.0,2002.0,birthplace,"Wazirabad, Punjab, Pakistan",Wazirabad,32.43528,74.11417,linked page
+431,Ovy On The Drums,direct,Ovy on the Drums,https://en.wikipedia.org/wiki/Ovy_On_The_Drums,1.0,2992.0,37.0,2016.0,birthplace,"Medellín, Colombia",Medellín,6.23083,-75.59056,linked page
+432,Olivia Dean,direct,Olivia Dean,https://en.wikipedia.org/wiki/Olivia_Dean,31.0,7143.0,103.0,2017.0,birthplace,"London, England",London,51.50722,-0.1275,searched text
+433,Dire Straits,direct,Dire Straits,https://en.wikipedia.org/wiki/Dire_Straits,80.0,12859.0,145.0,1977.0,origin,"London, England",London,51.50722,-0.1275,linked page
+434,NewJeans,direct,NewJeans,https://en.wikipedia.org/wiki/NewJeans,42.0,20565.0,259.0,2022.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+435,Avenged Sevenfold,direct,Avenged Sevenfold,https://en.wikipedia.org/wiki/Avenged_Sevenfold,59.0,12810.0,192.0,1999.0,origin,"Huntington Beach, California, U.S.","Huntington Beach, California",33.69278,-118.00028,linked page
+436,Ricardo Arjona,direct,Ricardo Arjona,https://en.wikipedia.org/wiki/Ricardo_Arjona,20.0,9505.0,118.0,1985.0,birthplace,"Jocotenango, Guatemala",Jocotenango,14.58194,-90.74361,linked page
+437,Los Ángeles Azules,direct,Los Ángeles Azules,https://en.wikipedia.org/wiki/Los_%C3%81ngeles_Azules,6.0,1615.0,7.0,1976.0,origin,"Iztapalapa, Mexico City, Mexico",Iztapalapa,19.35833,-99.09306,linked page
+438,Rex Orange County,direct,Rex Orange County,https://en.wikipedia.org/wiki/Rex_Orange_County,19.0,3321.0,43.0,2014.0,origin,"Grayshott, England",Grayshott,51.11031,-0.75437,linked page
+439,ScHoolboy Q,direct,Schoolboy Q,https://en.wikipedia.org/wiki/ScHoolboy_Q,27.0,6667.0,90.0,2007.0,birthplace,"Wiesbaden, West Germany",Wiesbaden,50.0825,8.24,linked page
+440,6LACK,direct,6lack,https://en.wikipedia.org/wiki/6LACK,20.0,2923.0,45.0,2011.0,birthplace,"Baltimore, Maryland, U.S.",Baltimore,39.28944,-76.61528,linked page
+441,Disclosure,disambiguation,Disclosure (band),https://en.wikipedia.org/wiki/Disclosure_(band),25.0,3969.0,62.0,2010.0,origin,"Reigate, Surrey, England",Reigate,51.237,-0.206,linked page
+442,Brytiago,direct,Brytiago,https://en.wikipedia.org/wiki/Brytiago,4.0,3222.0,40.0,2014.0,birthplace,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+443,Alesso,direct,Alesso,https://en.wikipedia.org/wiki/Alesso,29.0,3530.0,50.0,2010.0,birthplace,"Stockholm, Sweden",Stockholm,59.32944,18.06861,linked page
+444,RAF Camora,direct,RAF Camora,https://en.wikipedia.org/wiki/RAF_Camora,13.0,1757.0,32.0,2002.0,birthplace,"Vevey, Switzerland",Vevey,46.467,6.85,linked page
+445,Nelly,direct,Nelly,https://en.wikipedia.org/wiki/Nelly,49.0,9520.0,121.0,1993.0,birthplace,"Austin, Texas, U.S.","Austin, Texas",30.26722,-97.74306,linked page
+446,Mumford & Sons,direct,Mumford & Sons,https://en.wikipedia.org/wiki/Mumford_%26_Sons,41.0,10022.0,134.0,2007.0,origin,"London, England",London,51.50722,-0.1275,linked page
+447,Kumaar,direct,Kumaar,https://en.wikipedia.org/wiki/Kumaar,7.0,1350.0,4.0,,,,,,,
+448,Pearl Jam,direct,Pearl Jam,https://en.wikipedia.org/wiki/Pearl_Jam,70.0,17927.0,236.0,1990.0,origin,"Seattle, Washington, U.S.",Seattle,47.60389,-122.33,linked page
+449,Zion,disambiguation,Zion & Lennox,https://en.wikipedia.org/wiki/Zion_&_Lennox,9.0,2493.0,8.0,2000.0,origin,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
+450,Ryan Castro,direct,Ryan Castro,https://en.wikipedia.org/wiki/Ryan_Castro,3.0,1640.0,28.0,2016.0,birthplace,"Bello, Antioquia, Colombia","Bello, Antioquia",6.333,-75.567,linked page
+451,Nelly Furtado,direct,Nelly Furtado,https://en.wikipedia.org/wiki/Nelly_Furtado,81.0,10201.0,163.0,1996.0,birthplace,"Victoria, British Columbia, Canada","Victoria, British Columbia",48.42833,-123.36472,linked page
+452,Wesley Safadão,direct,Wesley Safadão,https://en.wikipedia.org/wiki/Wesley_Safad%C3%A3o,5.0,891.0,2.0,2003.0,birthplace,"Fortaleza, Ceará, Brazil",Fortaleza,-3.7275,-38.5275,linked page
+453,Disturbed,direct,Disturbed,https://en.wikipedia.org/wiki/Disturbed,50.0,9050.0,119.0,1994.0,origin,"Chicago, Illinois, U.S.",Chicago,41.88194,-87.62778,linked page
+454,H.E.R.,direct,H.E.R.,https://en.wikipedia.org/wiki/H.E.R.,33.0,8059.0,56.0,2011.0,birthplace,"Vallejo, California, U.S.","Vallejo, California",38.11306,-122.23583,linked page
+455,Rita Ora,direct,Rita Ora,https://en.wikipedia.org/wiki/Rita_Ora,74.0,10321.0,174.0,2004.0,birthplace,"Pristina, SFR Yugoslavia (now Kosovo )",Pristina,42.66667,21.16667,linked page
+456,Kevin Gates,direct,Kevin Gates,https://en.wikipedia.org/wiki/Kevin_Gates,19.0,6216.0,103.0,2007.0,origin,"Baton Rouge, Louisiana, U.S.","Baton Rouge, Louisiana",30.4475,-91.17861,linked page
+457,beabadoobee,direct,Beabadoobee,https://en.wikipedia.org/wiki/Beabadoobee,27.0,9462.0,159.0,2017.0,birthplace,"Iloilo City, Philippines",Iloilo City,10.7,122.57,linked page
+458,Karan Aujla,direct,Karan Aujla,https://en.wikipedia.org/wiki/Karan_Aujla,6.0,5737.0,96.0,2014.0,birthplace,"Ludhiana district, Punjab, India",Ludhiana district,30.883,75.85,linked page
+459,Céline Dion,direct,Celine Dion,https://en.wikipedia.org/wiki/C%C3%A9line_Dion,143.0,30095.0,371.0,1980.0,birthplace,"Charlemagne, Quebec, Canada","Charlemagne, Quebec",45.717,-73.483,linked page
+460,Bryan Adams,direct,Bryan Adams,https://en.wikipedia.org/wiki/Bryan_Adams,80.0,28056.0,422.0,1975.0,birthplace,"Kingston, Ontario, Canada","Kingston, Ontario",44.23056,-76.48111,linked page
+461,ENHYPEN,direct,Enhypen,https://en.wikipedia.org/wiki/ENHYPEN,44.0,16303.0,234.0,2020.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+462,Dominic Fike,direct,Dominic Fike,https://en.wikipedia.org/wiki/Dominic_Fike,30.0,4464.0,55.0,2017.0,birthplace,"Naples, Florida, U.S.","Naples, Florida",26.13611,-81.79444,linked page
+463,Ana Castela,direct,Ana Castela,https://en.wikipedia.org/wiki/Ana_Castela,6.0,1619.0,15.0,2021.0,birthplace,"Amambai, Mato Grosso do Sul, Brazil",Amambai,-23.10389,-55.22583,linked page
+464,LANY,direct,LANY,https://en.wikipedia.org/wiki/LANY,12.0,3488.0,50.0,2014.0,origin,"Nashville, Tennessee, U.S.","Nashville, Tennessee",36.16222,-86.77444,linked page
+465,Johnny Cash,direct,Johnny Cash,https://en.wikipedia.org/wiki/Johnny_Cash,110.0,23362.0,205.0,1954.0,birthplace,"Kingsland, Arkansas, U.S.","Kingsland, Arkansas",33.87,-92.27917,linked page
+466,B.o.B,direct,B.o.B,https://en.wikipedia.org/wiki/B.o.B,40.0,10317.0,152.0,2006.0,birthplace,"Winston-Salem, North Carolina, U.S.","Winston-Salem, North Carolina",36.10278,-80.26083,linked page
+467,Jason Aldean,direct,Jason Aldean,https://en.wikipedia.org/wiki/Jason_Aldean,24.0,9547.0,106.0,1998.0,birthplace,"Macon, Georgia, U.S.","Macon, Georgia",32.83472,-83.65167,linked page
+468,Luan Santana,direct,Luan Santana,https://en.wikipedia.org/wiki/Luan_Santana,24.0,1119.0,11.0,2007.0,birthplace,"Campo Grande, Mato Grosso do Sul, Brazil",Campo Grande,-20.48389,-54.615,linked page
+469,KHEA,direct,Khea,https://en.wikipedia.org/wiki/Khea,34.0,3511.0,32.0,2017.0,birthplace,"Virreyes, Buenos Aires, Argentina","Virreyes, Buenos Aires",-34.45,-58.533,linked page
+470,Maiara & Maraisa,direct,Maiara & Maraisa,https://en.wikipedia.org/wiki/Maiara_%26_Maraisa,6.0,734.0,7.0,1993.0,origin,"São José dos Quatro Marcos, Mato Grosso, Brazil",São José dos Quatro Marcos,-15.6208,-58.1758,linked page
+471,Mc IG,direct,MC IG,https://en.wikipedia.org/wiki/MC_IG,1.0,454.0,5.0,,birthplace,"São Paulo, Brazil",São Paulo,-23.55,-46.633,linked page
+472,Tiago PZK,direct,Tiago PZK,https://en.wikipedia.org/wiki/Tiago_PZK,7.0,3625.0,46.0,2018.0,birthplace,"Monte Grande, Buenos Aires, Argentina",Monte Grande,-34.817,-58.467,linked page
+473,Tom Odell,direct,Tom Odell,https://en.wikipedia.org/wiki/Tom_Odell,43.0,4392.0,71.0,2012.0,birthplace,"Chichester, West Sussex, England",Chichester,50.8365,-0.7792,linked page
+474,Macklemore & Ryan Lewis,direct,Macklemore & Ryan Lewis,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis,11.0,4705.0,44.0,2009.0,origin,"Seattle, Washington, U.S.",Seattle,47.60389,-122.33,linked page
+475,Thomas Rhett,direct,Thomas Rhett,https://en.wikipedia.org/wiki/Thomas_Rhett,18.0,5928.0,85.0,2010.0,birthplace,"Valdosta, Georgia, U.S.","Valdosta, Georgia",30.84667,-83.28306,linked page
+476,MØ,direct,MØ,https://en.wikipedia.org/wiki/M%C3%98,43.0,11049.0,210.0,2006.0,birthplace,"Ubberud, Odense, Denmark",Ubberud,55.39694,10.25583,linked page
+477,Five Finger Death Punch,direct,Five Finger Death Punch,https://en.wikipedia.org/wiki/Five_Finger_Death_Punch,36.0,12245.0,209.0,2005.0,origin,"Las Vegas, Nevada, U.S.",Las Vegas,36.16917,-115.14056,linked page
+478,Kane Brown,direct,Kane Brown,https://en.wikipedia.org/wiki/Kane_Brown,23.0,6538.0,104.0,2014.0,birthplace,"Chattanooga, Tennessee, U.S.","Chattanooga, Tennessee",35.065958,-85.248386,linked page
+479,Laufey,disambiguation,Laufey (singer),https://en.wikipedia.org/wiki/Laufey_(singer),36.0,5656.0,93.0,2020.0,birthplace,"Reykjavík, Iceland",Reykjavík,64.14583,-21.9425,linked page
+480,Grupo Menos É Mais,direct,Menos É Mais,https://en.wikipedia.org/wiki/Grupo_Menos_%C3%A9_Mais,1.0,992.0,14.0,2016.0,origin,"Gama, Federal District, Brazil","Gama, Federal District",-16.01944,-48.06694,linked page
+481,Nicki Nicole,direct,Nicki Nicole,https://en.wikipedia.org/wiki/Nicki_Nicole,17.0,3570.0,62.0,2019.0,birthplace,"Rosario, Santa Fe, Argentina",Rosario,-32.9575,-60.63944,linked page
+482,Moneybagg Yo,direct,Moneybagg Yo,https://en.wikipedia.org/wiki/Moneybagg_Yo,13.0,6456.0,77.0,2011.0,birthplace,"Memphis, Tennessee, U.S.","Memphis, Tennessee",35.14611,-90.05194,linked page
+483,Magenta,disambiguation (country not confirmed),Magenta (Norwegian band),https://en.wikipedia.org/wiki/Magenta_(Norwegian_band),2.0,1217.0,2.0,1995.0,origin,Norway,Norway,61.0,8.0,searched text
+484,Ryan Lewis,direct,Ryan Lewis,https://en.wikipedia.org/wiki/Ryan_Lewis,28.0,3077.0,25.0,,birthplace,"Spokane, Washington, U.S.","Spokane, Washington",47.65889,-117.425,linked page
+485,Morad,disambiguation,Morad (rapper),https://en.wikipedia.org/wiki/Morad_(Spanish_rapper),12.0,2639.0,35.0,2019.0,birthplace,"L'Hospitalet de Llobregat, Catalonia, Spain",L'Hospitalet de Llobregat,41.35972,2.1,linked page
+486,Calum Scott,direct,Calum Scott,https://en.wikipedia.org/wiki/Calum_Scott,28.0,4342.0,59.0,2010.0,birthplace,"Beverley, East Riding of Yorkshire, England",Beverley,53.84361,-0.43,linked page
+487,TOMORROW X TOGETHER,direct,Tomorrow X Together,https://en.wikipedia.org/wiki/Tomorrow_X_Together,39.0,13947.0,192.0,2019.0,origin,"Seoul, South Korea",Seoul,37.56,126.99,linked page
+488,Grupo Marca Registrada,direct,Grupo Marca Registrada,https://en.wikipedia.org/wiki/Grupo_Marca_Registrada,1.0,1067.0,22.0,2013.0,origin,"Culiacán, Sinaloa, Mexico",Culiacán,24.80694,-107.39389,linked page
+489,benny blanco,direct,Benny Blanco,https://en.wikipedia.org/wiki/Benny_blanco,33.0,8443.0,157.0,2007.0,birthplace,"Reston, Virginia, U.S.","Reston, Virginia",38.95889,-77.35861,linked page
+490,JID,direct,JID,https://en.wikipedia.org/wiki/JID,18.0,4359.0,73.0,2010.0,birthplace,"Atlanta, Georgia, U.S.",Atlanta,33.74889,-84.39,linked page
+491,YNW Melly,direct,YNW Melly,https://en.wikipedia.org/wiki/YNW_Melly,18.0,4334.0,64.0,2016.0,origin,"Gifford, Florida, U.S.","Gifford, Florida",27.67556,-80.42528,linked page
+492,Juan Gabriel,direct,Juan Gabriel,https://en.wikipedia.org/wiki/Juan_Gabriel,34.0,7286.0,93.0,1971.0,birthplace,"Parácuaro, Michoacán, Mexico",Parácuaro,19.14667,-102.21944,linked page
+493,Los Temerarios,direct,Los Temerarios,https://en.wikipedia.org/wiki/Los_Temerarios,3.0,1693.0,8.0,1977.0,origin,"Fresnillo, Zacatecas, Mexico",Fresnillo,23.175,-102.8675,linked page
+494,Jason Mraz,direct,Jason Mraz,https://en.wikipedia.org/wiki/Jason_Mraz,47.0,9964.0,140.0,1999.0,birthplace,"Mechanicsville, Virginia, U.S.","Mechanicsville, Virginia",37.60389,-77.37222,linked page
+495,The Cure,direct,The Cure,https://en.wikipedia.org/wiki/The_Cure,68.0,14997.0,224.0,1976.0,origin,"Crawley, West Sussex, England",Crawley,51.10917,-0.18722,linked page
+496,The Marías,direct,The Marías,https://en.wikipedia.org/wiki/The_Mar%C3%ADas,13.0,4217.0,83.0,2016.0,origin,"Los Angeles, California, US",Los Angeles,34.05,-118.25,linked page
+497,Limp Bizkit,direct,Limp Bizkit,https://en.wikipedia.org/wiki/Limp_Bizkit,62.0,22056.0,293.0,1994.0,origin,"Jacksonville, Florida, U.S.","Jacksonville, Florida",30.32611,-81.65806,linked page
+498,Korn,direct,Korn,https://en.wikipedia.org/wiki/Korn,69.0,21320.0,318.0,1993.0,origin,"Bakersfield, California, U.S.","Bakersfield, California",35.3733,-119.0189,linked page
+499,Omar Courtz,direct,Omar Courtz,https://en.wikipedia.org/wiki/Omar_Courtz,5.0,3300.0,47.0,2017.0,birthplace,"Carolina, Puerto Rico","Carolina, Puerto Rico",18.40611,-65.96722,linked page
